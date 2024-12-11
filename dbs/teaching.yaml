@@ -21,13 +21,15 @@
       en: Master
       pt: Pós-Graduação
   course1:
-    summer: T
+    summer: F
     name:
-      de: Einführung in die empirische Sozialforschung
-      en: Empirical method essentials (de)
-      pt: Basicos do método empírico (de)
+      fr: Les Graphes orientés acycliques (GOA)
+      de: Gerichtete azyklische Graphen (GAG)
+      en: Directed acyclic graphs (DAG)
+      pt: Gráficos orientados acíclicos (GOA)
     study:
-      de: Bachelor
-      en: Bachelor
-      pt: Graduação
-
+      fr: Méthodes quantitatives
+      jp: 量的方法論
+      de: Quantitative Methodik
+      en: Quantitative Methodology
+      pt: Metodologia quantitativa

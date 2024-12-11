@@ -16,7 +16,7 @@
 #let skills = yaml("dbs/skills.yaml")
 
 // set the language of the document
-#let language = "en"      
+#let language = "fr"      
 
 // defining variables
 #let headerLabs = create-headers(multilingual, lang: language)
@@ -84,17 +84,6 @@
 #cv-auto(committee, multilingual, lang: language)
 
 = #headerLabs.at("teaching")
-
-== #headerLabs.at("teaching-thesis")
-#if language == "de" [
-  #cv-two-items[Bachelor][9][Master][2]
-] else if language == "en" [
-  #cv-two-items[Bachelor][9][Master][2]
-] else if language == "pt" [
-  #cv-two-items[Graduação][9][Pós-Graduação][2]
-] else [
-  #cv-two-items[Bachelor][9][Master][2]
-]
 
 == #headerLabs.at("teaching-courses")
 
