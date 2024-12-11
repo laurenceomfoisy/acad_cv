@@ -48,25 +48,38 @@ programs:
     name: Neovim
     level: 3
     description:
-      de: erste Schritte in der Anwendung
-      en: first steps
-      pt: primeiros passos
-  office:
-    name: Office
+      fr: IDE principal
+      jp: メインIDE
+      de: Haupt-IDE
+      en: Main IDE
+      pt: IDE principal
+  Linux:
+    name: Linux
     level: 3
     description:
-      de: langjährige Erfahrung (Win/MacOS)
-      en: longstanding experience (Win/MacOS)
-      pt: experiência de longa data (Win/MacOS)
+      fr: Utilisat  Debian 12 sur toutes mes machines
+      jp: すべてのマシンでDebian 12を使用
+      en: Using Debian 12 on all of my machines
+      pt: Usando Debian 12 em todas as minhas máquinas
+      de: Verwendung von Debian 12 auf allen meinen Maschinen
   github:
     name: GitHub
-    level: 4
+    level: 3
     description:
       fr: Utilisé pour le contrôle de version, le partage de code, la gestion des dotfiles et la gestion de projets
       jp: バージョン管理、コード共有、ドットファイル管理、プロジェクト管理に使用
       en: used for version control, code sharing, dotfiles management, and project management
       de: genutzt für Versionskontrolle, Code-Sharing, Dotfiles-Verwaltung und Projektmanagement
       pt: utilizado para controle de versão, compartilhamento de código, gerenciamento de dotfiles e gerenciamento de projetos
+  git:
+    name: git
+    level: 3
+    description:
+      fr: Utilisé pour le contrôle de version sur tous mes projets
+      jp: すべてのプロジェクトでバージョン管理に使用
+      de: verwendet für Versionskontrolle in allen Projekten
+      en: used for version control in all projects
+      pt: utilizado para controle de versão em todos os projetos
   ollama:
     name: Ollama
     level: 3

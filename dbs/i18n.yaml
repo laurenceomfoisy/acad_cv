@@ -26,7 +26,7 @@ lang:
     tab-study: Study program
     tab-year: Term
     tab-note: "Course language: (de) German, (en) English"
-    table-summer: "Summer"
+    table-summer: "Fall"
     table-winter: "Winter"
     others: Further skills
     skills-computer: Computer languages
@@ -72,7 +72,7 @@ lang:
     tab-study: Programme d'études
     tab-year: Session
     tab-note: "Langue du cours: (de) allemand, (en) anglais"
-    table-summer: "Été"
+    table-summer: "Automne"
     table-winter: "Hiver"
     others: Compétences supplémentaires
     skills-computer: Langages de programmation
@@ -118,7 +118,7 @@ lang:
     tab-study: 課程
     tab-year: 学期
     tab-note: "授業言語：(de) ドイツ語、(en) 英語"
-    table-summer: "夏学期"
+    table-summer: "秋学期"
     table-winter: "冬学期"
     others: その他の技能
     skills-computer: プログラミング言語
@@ -163,7 +163,7 @@ lang:
     tab-study: Estudo
     tab-year: Semestre
     tab-note: "Idioma de curso: (de) alemão, (en) inglês"
-    table-summer: "Verão"
+    table-summer: "Outono"
     table-winter: "Inverno"
     others: Outras competências
     skills-computer: Idiomas de programação
@@ -210,7 +210,7 @@ lang:
     tab-study: Studiengang
     tab-year: Semester
     tab-note: "Kurssprache: (en) Englisch"
-    table-summer: "Sommer"
+    table-summer: "Herbst"
     table-winter: "Winter"
     others: Weitere Kompetenzen
     skills-computer: Computer-sprachen
