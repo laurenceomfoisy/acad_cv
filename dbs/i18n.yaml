@@ -2,7 +2,7 @@ lang:
   en:
     subtitle: Academic CV
     education: Higher education
-    work: Academic work experience (selection)
+    work: Academic work experience 
     grants: Scholarships & awards
     pubs: Publications
     pubs-note: "C: Corresponding Author"
@@ -16,16 +16,16 @@ lang:
     exp-confs: "P: presentation, R: redaction of paper"
     confs-talks: Invited talks
     committee: Committee work & voluntary roles (selection)
-    teaching: Teaching experience (Justus-Liebig-University Giessen)
+    teaching: Teaching experience (Laval University)
     teaching-thesis: Supervised theses
     teaching-courses: Teaching (selected)
     training: Additional training (selection)
     training-methods: Methods training
     training-didactics: Didactics
-    tab-course: Course
-    tab-study: Study program
+    tab-course: Subject taught
+    tab-study: Course name
     tab-year: Term
-    tab-note: "Course language: (de) German, (en) English"
+    tab-note: "Entire courses taught as part of a professor replacement"
     table-summer: "Fall"
     table-winter: "Winter"
     others: Further skills
@@ -48,7 +48,7 @@ lang:
   fr:
     subtitle: Curriculum Vitae
     education: Formation académique
-    work: Expérience professionnelle académique (sélection)
+    work: Expérience professionnelle académique 
     grants: Bourses et prix
     pubs: Publications
     pubs-note: "C: Auteur correspondant"
@@ -62,16 +62,16 @@ lang:
     exp-confs: "P: présentation, R: rédaction du papier"
     confs-talks: Présentations invitées
     committee: Comités et rôles bénévoles (sélection)
-    teaching: Expérience d'enseignement (Université Justus-Liebig de Giessen)
+    teaching: Expérience d'enseignement (Université Laval)
     teaching-thesis: Thèses supervisées
     teaching-courses: Enseignement (sélection)
     training: Formation complémentaire (sélection)
     training-methods: Formation en méthodes
     training-didactics: Didactique
-    tab-course: Cours
-    tab-study: Programme d'études
+    tab-course: Matière enseignée
+    tab-study: Nom du cours
     tab-year: Session
-    tab-note: "Langue du cours: (de) allemand, (en) anglais"
+    tab-note: "Cours entier enseignés dans le cadre d'un remplacement de professeur"    
     table-summer: "Automne"
     table-winter: "Hiver"
     others: Compétences supplémentaires
@@ -108,16 +108,16 @@ lang:
     exp-confs: "P: 発表, R: 論文執筆"
     confs-talks: 招待講演
     committee: 委員会活動・社会貢献（抜粋）
-    teaching: 教育歴（ギーセン大学）
+    teaching: 教育歴（ラバル大学）
     teaching-thesis: 指導論文
     teaching-courses: 担当科目（抜粋）
     training: 研修歴（抜粋）
     training-methods: 研究手法
     training-didactics: 教授法
-    tab-course: 科目
-    tab-study: 課程
+    tab-course: 教科
+    tab-study: コース名
     tab-year: 学期
-    tab-note: "授業言語：(de) ドイツ語、(en) 英語"
+    tab-note: "教授の代替として教えた全コース(きょうじゅのだいたいとしておしえたぜんコース)"
     table-summer: "秋学期"
     table-winter: "冬学期"
     others: その他の技能
@@ -153,16 +153,16 @@ lang:
     exp-confs: "P: Präsentation, R: Verfassung des Papers"    
     confs-talks: Palestras convidadas
     committee: Trabalho em comité e funções voluntárias (seleção)
-    teaching: Ensino (Justus-Liebig-Universidade Giessen)
+    teaching: Ensino (Universidade de Laval)
     teaching-thesis: Teses orientadas
     teaching-courses: Cursos (seleção)
     training: Formação complementar (seleção)
     training-methods: Métodos
     training-didactics: Didactico
-    tab-course: Curso
-    tab-study: Estudo
+    tab-course: Matéria ensinada
+    tab-study: Nome do curso
     tab-year: Semestre
-    tab-note: "Idioma de curso: (de) alemão, (en) inglês"
+    tab-note: "Cursos inteiros ministrados como parte de uma substituição de professor"
     table-summer: "Outono"
     table-winter: "Inverno"
     others: Outras competências
@@ -200,16 +200,16 @@ lang:
     exp-confs: "P: Apresentação, R: Redação do artigo"
     confs-talks: Gastvorträge
     committee: Akademische Selbstverwaltung & ehrenamtliche Funktionen (Auswahl)
-    teaching: Lehrerfahrung (Justus-Liebig-Universität Gießen)
+    teaching: Lehrerfahrung (Université Laval)
     teaching-thesis: Betreute Abschlussarbeiten
     teaching-courses: Lehre (ausgewählt)
     training: Weiterbildungen (Auswahl)
     training-methods: Methoden
     training-didactics: Didaktik
-    tab-course: Kurs
-    tab-study: Studiengang
+    tab-course: Unterrichtsfach
+    tab-study: Kursname
     tab-year: Semester
-    tab-note: "Kurssprache: (en) Englisch"
+    tab-note: "Komplette Kurse, die im Rahmen einer Vertretung eines Professors unterrichtet wurden"
     table-summer: "Herbst"
     table-winter: "Winter"
     others: Weitere Kompetenzen

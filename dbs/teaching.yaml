@@ -1,25 +1,19 @@
 "2024":
   course1:
-    summer: T
-    name:
-      de: "Statistik+: Einstieg in R leicht gemacht"
-      en: "Statistics+: Starting with R (de)"
-      pt: "Estatística+: Começando com R (de)"
-    study:
-      de: Bachelor
-      en: Bachelor
-      pt: Graduação
-"2023":
-  course2:
     summer: F
     name:
-      de: Analyse politischer Unterstützung
-      en: Analyzing political support (de)
-      pt: Análise do apoio político (de)
+      fr: Git et GitHub
+      jp: GitとGitHub
+      de: Git und GitHub
+      en: Git and GitHub
+      pt: Git e GitHub
     study:
-      de: Master
-      en: Master
-      pt: Pós-Graduação
+      fr: Outils numériques de recherche
+      jp: デジタル研究ツール
+      de: Digitale Forschungswerkzeuge
+      en: Digital Research Tools
+      pt: Ferramentas digitais de pesquisa
+"2023":
   course1:
     summer: F
     name:
