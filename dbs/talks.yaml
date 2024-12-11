@@ -1,19 +1,45 @@
+entry3:
+  title: "Initiation à l'analyse de données avec R"
+  subtitle:
+    fr: Atelier de la Faculté des sciences sociales (FSS)
+    jp: 社会科学部ワークショップ
+    en: Faculty of Social Sciences Workshop
+    de: Fakultät für Sozialwissenschaften Workshop
+    pt: Workshop da Faculdade de Ciências Sociais
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    en: Laval University
+    de: Université Laval
+    pt: Universidade Laval
+  left: "2024"
 entry2:
-  title: "The Role of Social Media in Shaping Modern Electoral Campaigns"
-  subtitle: Lecture Series
-  location: Harvard Kennedy School 
+  title: "Git et GitHub"
+  subtitle:
+    fr: Cours d'Outils numériques de recherche
+    jp: デジタル研究ツールクラス
+    en: Digital Research Tools Class
+    de: Digitale Forschungswerkzeuge Klasse
+    pt: Ferramentas digitais de pesquisa Classe
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    en: Laval University
+    de: Université Laval
+    pt: Universidade Laval
   left: "2024"
 entry1:
-  title:
-    de: Using continuous integration in teaching
-    en: Using continuous integration in teaching
-    pt: Using continuous integration in teaching
-  subtitle: 
-    de: Exzellenz Universität 
-    en: University of Excellence
-    pt: Universidade de Excelência
+  title: "Le référencement"
+  subtitle:
+    fr: Cours de méthodes quantitatives
+    jp: 量的方法論クラス
+    en: Quantitative Methodology Class
+    de: Quantitative Methodik Klasse
+    pt: Metodologia quantitativa Classe
   location:
-    de: Berlin 
-    en: Berlin (Germany)
-    pt: Berlim (Alemanha)
+    fr: Université Laval
+    jp: ラバル大学
+    en: Laval University
+    de: Université Laval
+    pt: Universidade Laval
   left: "2023"

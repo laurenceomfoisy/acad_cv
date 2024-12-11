@@ -3,66 +3,119 @@ computer:
     name: R
     level: 4
     description:
-      de: langjährige Erfahrung, unterrichtete mehrere Kurse
-      en: longstanding experience, taught several courses
-      pt: experiência de longa data, ensinei vários cursos
-  quarto:
-    name: Quarto / Markdown
+      fr: Bonne expérience, enseigné plusieurs ateliers, dirigé divers projets, publié des packages
+      jp: 経験豊富、複数のワークショップを教え、さまざまなプロジェクトをリード
+      de: langjährige Erfahrung, unterrichtete mehrere Kurse und leitete verschiedene Projekte
+      en: longstanding experience, taught several workshops, led various projects, published packages
+      pt: experiência de longa data, ensinei vários cursos e liderei vários projetos
+  python:
+    name: Python
+    level: 2
+    description:
+      fr: Utilisé pour le web scraping et l'analyse de données
+      jp: ウェブスクレイピングとデータ解析に使用
+      de: genutzt für Web Scraping und Datenanalyse
+      en: used for web scraping and data analysis
+      pt: utilizado para web scraping e análise de dados
+  typst:
+    name: Typst
     level: 3
     description:
+      fr: Utilisé pour la rédaction scientifique et pour les demandes de bourses
+      de: genutzt in Berichten und Artikeln, erste Schritte mit eigenen Templates/Paketen
+      en: used in scientific papers and grant applications
+      pt: utilizado em apresentações e artigos, primeiros passos com templates/packages
+  quarto:
+    name: Quarto
+    level: 4
+    description:
+      fr: Utilisé pour la rédaction scientifique et les diapositives de présentations
+      jp: 学術論文の執筆やプレゼンテーションスライドに使用
       de: genutzt in Präsentationen, Dashboards & Berichten
       en: "used in presentations, dashboards & reports"
       pt: "utilizado em apresentações, dashboards e relatórios "
-  typst:
-    name: LaTeX / Typst
-    level: 2
+  latex:
+    name: LaTeX
+    level: 4
     description:
-      de: genutzt in Berichten und Artikeln, erste Schritte mit eigenen Templates/Paketen
-      en: used in presentations and papers, first steps with own templates/packages
-      pt: utilizado em apresentações e artigos, primeiros passos com templates/packages
+      fr: Utilisé pour la rédaction scientifique en local et avec Overleaf
+      jp: ローカルでの学術論文執筆とOverleafでの使用
+      de: genutzt in wissenschaftlichen Arbeiten lokal und mit Overleaf
+      en: used in scientific papers locally and with Overleaf
+      pt: utilizado em artigos científicos localmente e com Overleaf
 programs:
-  positron:
-    name: Positron
-    level: 2
+  neovim:
+    name: Neovim
+    level: 3
     description:
       de: erste Schritte in der Anwendung
       en: first steps
       pt: primeiros passos
   office:
     name: Office
-    level: 4
+    level: 3
     description:
       de: langjährige Erfahrung (Win/MacOS)
       en: longstanding experience (Win/MacOS)
       pt: experiência de longa data (Win/MacOS)
+  github:
+    name: GitHub
+    level: 4
+    description:
+      fr: Utilisé pour le contrôle de version, le partage de code, la gestion des dotfiles et la gestion de projets
+      jp: バージョン管理、コード共有、ドットファイル管理、プロジェクト管理に使用
+      en: used for version control, code sharing, dotfiles management, and project management
+      de: genutzt für Versionskontrolle, Code-Sharing, Dotfiles-Verwaltung und Projektmanagement
+      pt: utilizado para controle de versão, compartilhamento de código, gerenciamento de dotfiles e gerenciamento de projetos
+  ollama:
+    name: Ollama
+    level: 3
+    description:
+      fr: Utilisé pour télécharger et opérationaliser des LLM open-source en R
+      jp: RでオープンソースのLLMをダウンロードして運用
+      de: genutzt zum Herunterladen und Betreiben von Open-Source-LLMs in R
+      en: used to download and operationalize open-source LLMs in R
+      pt: utilizado para baixar e operacionalizar LLMs de código aberto em R
 languages:
-  german:
+  french:
     name:
-      de: Deutsch
-      en: German
-      pt: Alemão
+      de: Französisch
+      en: French
+      pt: Francês
+      fr: Français
+      jp: フランス語
     level: 4
     description:
       de: Muttersprache
       en: native tongue
       pt: língua materna
+      fr: langue maternelle
+      jp: 母国語
   english:
     name:
+      fr: Anglais
+      jp: 英語
       de: Englisch
       en: English
       pt: Inglês
     level: 4
     description:
+      fr: courant à l'écrit et à l'oral
+      jp: 話し言葉と書き言葉の両方で流暢
       de: fließend in Wort und Schrift
       en: fluent in speech and writing
       pt: fluente (escrito e falando)
-  portugues:
+  japanese:
     name:
-      de: Portugiesisch
-      en: Portuguese
-      pt: Português
-    level: 3
+      fr: Japonais
+      jp: 日本語
+      de: Japanisch
+      en: Japanese
+      pt: Japonês
+    level: 2
     description:
-      de: fortgeschritten
-      en: advanced
-      pt: avançado
+      fr: niveau intermédiaire
+      jp: 中級
+      de: mittleres Niveau
+      en: intermediate level
+      pt: nível intermediário

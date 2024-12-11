@@ -1,28 +1,240 @@
-entry:
+ta7:
   title:
-    de: Wissenschaftlicher Mitarbeiter
-    en: Research Fellow (Postdoc)
-    pt: Pesquisador (Doutorando)
+    fr: Auxiliaire d'enseignement et aide à la conception du cours
+    jp: ティーチングアシスタントとコースデザインアシスタント
+    de: Lehrassistent und kursdesignassistent
+    en: Teaching Assistant and course design assistant
+    pt: Assistente de ensino e Assistente de design de curso
   subtitle:
-    de: Professur für Spaß
-    en: Chair of fun
-    pt: Cátedra de alegria
+    fr: Interactive Visualization, Dashboards, and Apps with R and Shiny
+    jp: Interactive Visualization, Dashboards, and Apps with R and Shiny
+    de: Interactive Visualization, Dashboards, and Apps with R and Shiny
+    en: Interactive Visualization, Dashboards, and Apps with R and Shiny
+    pt: Interactive Visualization, Dashboards, and Apps with R and Shiny
   location:
-    de: Exzellenz Universität 
-    en: University of Excellence
-    pt: Universidade de Excelência
-  left: since 02/2023
-entry1:
+    fr: ICPSR
+    jp: ICPSR
+    de: ICPSR
+    en: ICPSR
+    pt: ICPSR
+  left: "2024"
+ta6:
   title:
-    de: Wissenschaftlicher Mitarbeiter
-    en: PhD Fellow
-    pt: Pesquisador (Doutorando)
+    fr: Auxiliaire d'enseignement
+    jp: ティーチングアシスタント
+    de: Lehrassistent
+    en: Teaching Assistant
+    pt: Assistente de ensino
   subtitle:
-    de: Spannendes Forschungsprojekt
-    en: Exciting Research Project
-    pt: Projeto de pesquisa empolgante
+    fr: École interdisciplinaire outils et méthodes
+    jp: École interdisciplinaire outils et méthodes
+    de: École interdisciplinaire outils et méthodes
+    en: École interdisciplinaire outils et méthodes
+    pt: École interdisciplinaire outils et méthodes
   location:
-    de: Exzellenz Universität 
-    en: University of Excellence
-    pt: Universidade de Excelência
-  left: 10/2015-01/2023
+    fr: Université Laval
+    jp: ラバル大学
+    de: Université Laval
+    en: Laval University
+    pt: Universidade Laval
+  left: "2024"
+ta5:
+  title:
+    fr: Auxiliaire d'enseignement
+    jp: ティーチングアシスタント
+    de: Lehrassistent
+    en: Teaching Assistant
+    pt: Assistente de ensino
+  subtitle:
+    fr: pol-2000 Méthodologie quantitative
+    jp: pol-2000 量的方法論
+    de: pol-2000 Quantitative Methodik
+    en: pol-2000 Quantitative Methodology
+    pt: pol-2000 Metodologia quantitativa
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    de: Université Laval
+    en: Laval University
+    pt: Universidade Laval
+  left: "2024"
+ta4:
+  title:
+    fr: Auxiliaire d'enseignement
+    jp: ティーチングアシスタント
+    de: Lehrassistent
+    en: Teaching Assistant
+    pt: Assistente de ensino
+  subtitle:
+    fr: POL-7004 Analyse quantitative
+    jp: POL-7004 量的分析
+    de: POL-7004 quantitative analyse
+    en: POL-7004 quantitative analysis
+    pt: POL-7004 análise quantitativa
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    de: Université Laval
+    en: Laval University
+    pt: Universidade Laval
+  left: "2024"
+ta3:
+  title:
+    fr: Auxiliaire d'enseignement
+    jp: ティーチングアシスタント
+    de: Lehrassistent
+    en: Teaching Assistant
+    pt: Assistente de ensino
+  subtitle:
+    fr: POL-1005 Relations internationales et défis de la mondialisation
+    jp: POL-1005 国際関係とグローバリゼーションの課題
+    de: POL-1005 Internationale Beziehungen und Globalisierungsherausforderungen
+    en: POL-1005 International Relations and Globalization Challenges
+    pt: POL-1005 Relações internacionais e desafios da globalização
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    de: Université Laval
+    en: Laval University
+    pt: Universidade Laval
+  left: "2023"
+ta2:
+  title:
+    fr: Auxiliaire d'enseignement
+    jp: ティーチングアシスタント
+    de: Lehrassistent
+    en: Teaching Assistant
+    pt: Assistente de ensino
+  subtitle:
+    fr: pol-2000 Méthodologie quantitative
+    jp: pol-2000 量的方法論
+    de: pol-2000 Quantitative Methodik
+    en: pol-2000 Quantitative Methodology
+    pt: pol-2000 Metodologia quantitativa
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    de: Université Laval
+    en: Laval University
+    pt: Universidade Laval
+  left: "2023"
+ta1:
+  title:
+    fr: Auxiliaire d'enseignement
+    jp: ティーチングアシスタント
+    de: Lehrassistent
+    en: Teaching Assistant
+    pt: Assistente de ensino
+  subtitle:
+    fr: pol-2333 Sécurité internationale
+    jp: pol-2333 国際安全保障
+    de: pol-2333 Internationale Sicherheit
+    en: pol-2333 International Security
+    pt: pol-2333 Segurança internacional
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    de: Université Laval
+    en: Laval University
+    pt: Universidade Laval
+  left: "2023"
+ra3:
+  title:
+    fr: Auxiliaire de recherche
+    jp: リサーチアシスタント
+    de: forschungsassistent
+    en: research assistant
+    pt: Assistente de pesquisa
+  subtitle:
+    fr: Centre d'analyse des politiques publiques (CAPP)
+    jp: Centre d'analyse des politiques publiques (CAPP)
+    de: Centre d'analyse des politiques publiques (CAPP)
+    en: Centre for Public Policy Analysis (CAPP)
+    pt: Centro de Análise de Políticas Públicas (CAPP)
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    de: Université Laval
+    en: Laval University
+    pt: Universidade Laval
+  left: "2024"
+ra2:
+  title:
+    fr: Auxiliaire de recherche
+    jp: リサーチアシスタント
+    de: forschungsassistent
+    en: research assistant
+    pt: Assistente de pesquisa
+  subtitle:
+    fr: Centre interdisciplinaire de recherche sur l'Afrique et le Moyen-Orient (CIRAM)
+    jp: Centre interdisciplinaire de recherche sur l'Afrique et le Moyen-Orient (CIRAM)
+    de: Centre interdisciplinaire de recherche sur l'Afrique et le Moyen-Orient (CIRAM)
+    en: Interdisciplinary Research Center on Africa and the Middle East (CIRAM)
+    pt: Centro Interdisciplinar de Pesquisa sobre a África e o Oriente Médio (CIRAM)
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    de: Université Laval
+    en: Laval University
+    pt: Universidade Laval
+  left: "2024"
+ra1:
+  title:
+    fr: Auxiliaire de recherche
+    jp: リサーチアシスタント
+    de: forschungsassistent
+    en: research assistant
+    pt: Assistente de pesquisa
+  subtitle:
+    fr: Chaire de leadership en enseignement des sciences sociales numériques (CLESSN)
+    jp: Chaire de leadership en enseignement des sciences sociales numériques (CLESSN)
+    de: Chaire de leadership en enseignement des sciences sociales numériques (CLESSN)
+    en: Leadership Chaire in the Teaching of Digital Social Sciences (CLESSN)
+    pt: Cátedra de Liderança no Ensino das Ciências Sociais Digitais (CLESSN)
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    de: Université Laval
+    en: Laval University
+    pt: Universidade Laval
+  left: "2023"
+mentor2:
+  title:
+    fr: Mentor
+    jp: メンター
+    de: Mentor
+    en: Mentor
+    pt: Mentor
+  subtitle:
+    fr: "Atelier « Interpréter et explorer : Approfondissement en analyse de données avec R » organisé par la Faculté des sciences sociales (FSS)"
+    jp: "「解釈と探索：Rによるデータ分析の深化」ワークショップは社会科学部（FSS）が主催"
+    de: "Workshop „Interpretieren und erkunden: Vertiefung der Datenanalyse mit R“ organisiert von der Fakultät für Sozialwissenschaften (FSS)"
+    en: "“Interpret and Explore: Deepening Data Analysis with R” workshop organized by the Faculty of Social Sciences (FSS)"
+    pt: "Workshop “Interpretar e explorar: Aprofundando a análise de dados com R” organizado pela Faculdade de Ciências Sociais (FSS)"
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    de: Université Laval
+    en: Laval University
+    pt: Universidade Laval
+  left: "2024"
+mentor1:
+  title:
+    fr: Mentor
+    jp: メンター
+    de: Mentor
+    en: Mentor
+    pt: Mentor
+  subtitle:
+    fr: Cliniques d'entraide « code-review » en R de la Faculté des sciences sociales (FSS)
+    jp: 社会科学部のR「コードレビュー」ヘルプクリニック
+    de: „Code-Review“-Hilfsklinik in R der Fakultät für Sozialwissenschaften (FSS)
+    en: R ‘code-review’ help clinics of the Faculty of Social Sciences (FSS)
+    pt: Clínicas de ajuda ‘code-review’ em R da Faculdade de Ciências Sociais (FSS)
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    de: Université Laval
+    en: Laval University
+    pt: Universidade Laval
+  left: "2024"
