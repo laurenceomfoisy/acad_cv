@@ -1,54 +1,130 @@
+grant5:
+  title:
+    fr: Bourse d'admission au doctorat
+    jp: 博士課程入学奨学金
+    de: Doktorandenstipendium
+    en: Doctoral Admission Grant
+    pt: Bolsa de admissão ao doutorado
+  subtitle:
+    fr: Département de science politique
+    jp: 政治学部
+    de: Fachbereich Politikwissenschaft
+    en: Department of Political Science
+    pt: Departamento de Ciência Política
+  location:
+    fr: Université Laval (Québec)
+    jp: ラバル大学（ケベック）
+    de: Université Laval (Québec)
+    en: Laval University (Quebec)
+    pt: Université Laval (Québec)
+  left: "2023-2025"
+  description:
+    fr: CAD 30000
+    jp: CAD 30000
+    de: CAD 30000
+    en: CAD 30000
+    pt: CAD 30000
+grant4:
+  title:
+    fr: Bourse de réussite
+    jp: 成功奨学金
+    de: Erfolgsstipendium
+    en: Success Grant
+    pt: Bolsa de sucesso
+  subtitle:
+    fr: Faculté des études supérieures et postdoctorales (FESP)
+    jp: 大学院および博士課程学生の学部
+    de: Fakultät für Graduierten- und Postdoktorandenstudien
+    en: Faculty of Graduate and Postdoctoral Studies
+    pt: Faculdade de Pós-Graduação e Pós-Doutorado
+  location:
+    fr: Université Laval (Québec)
+    jp: ラバル大学（ケベック）
+    de: Université Laval (Québec)
+    en: Laval University (Quebec)
+    pt: Université Laval (Québec)
+  left: "2023-2025"
+  description:
+    fr: CAD 14000
+    jp: CAD 14000
+    de: CAD 14000
+    en: CAD 14000
+    pt: CAD 14000
 grant3:
   title:
-    de: Forschungsreisestipendium
-    en: Research Travel Grant
-    pt: Bolsa de Pesquisa para Viagem
+    fr: Makiguchi Foundation for Education International Students Scholarship
+    jp: Makiguchi Foundation for Education International Students Scholarship
+    de: Makiguchi Foundation for Education International Students Scholarship
+    en: Makiguchi Foundation for Education International Students Scholarship
+    pt: Makiguchi Foundation for Education International Students Scholarship
   subtitle:
-    de: Alexander von Humboldt-Stiftung
-    en: Alexander von Humboldt Foundation
-    pt: Fundação Alexander von Humboldt
+    fr: Université Soka
+    jp: 創価大学
+    de: Soka Universität
+    en: Soka University
+    pt: Universidade Soka
   location:
-    de: Brasilien
-    en: Brazil
-    pt: Brasil
-  left: "2024"
+    fr: Japon
+    jp: 日本
+    de: Japan
+    en: Japan
+    pt: Japão
+  left: "2019-2021"
   description:
-    de: "Fördersumme: 1.250 Euro"
-    en: "amount: 1,250 Euros"
-    pt: "valor: 1.250 Euros"
+    fr: JPY 2,680,000 (environ CAD 25100)
+    jp: JPY 2,680,000 (約 CAD 25100)
+    de: JPY 2,680,000 (ca. CAD 25100)
+    en: JPY 2,680,000 (approx. CAD 25100)
+    pt: JPY 2,680,000 (aprox. CAD 25100)
 grant2:
   title:
-    de: Konferenzteilnahme-Stipendium
-    en: Conference Participation Grant
-    pt: Bolsa de Participação em Conferências
+    fr: Bourse de mobilité
+    jp: モビリティグラント
+    de: Mobilitätsstipendium
+    en: Mobility Grant
+    pt: Bolsa de mobilidade
   subtitle:
-    de: Fritz Thyssen Stiftung
-    en: Fritz Thyssen Foundation
-    pt: Fundação Fritz Thyssen
+    fr: Ministère de l'éducation du Québec
+    jp: ケベック州教育省
+    de: Ministerium für Bildung von Quebec
+    en: Ministry of Education of Quebec
+    pt: Ministério da Educação de Quebec
   location:
-    de: Jahrestagung der Deutschen Vereinigung für Politikwissenschaft, Universität zu Köln
-    en: Annual Meeting of the German Political Science Association, University of Cologne
-    pt: Encontro Anual da Associação Alemã de Ciência Política, Universidade de Colônia
-  left: "2023"
+    fr: Québec
+    jp: ケベック
+    de: Quebec
+    en: Quebec
+    pt: Quebec
+  left: "2016-2017"
   description:
-    de: "Fördersumme: 1.500 Euro"
-    en: "amount: 1,500 Euros"
-    pt: "valor: 1.500 Euros"
+    fr: CAD 8000
+    jp: CAD 8000
+    de: CAD 8000
+    en: CAD 8000
+    pt: CAD 8000
 grant1:
   title:
-    de: Sachbeihilfe
-    en: Research Grant
-    pt: Bolsa de Pesquisa
+    fr: Student Exchange Support Program Grant
+    jp: Student Exchange Support Program Grant
+    de: Student Exchange Support Program Grant
+    en: Student Exchange Support Program Grant
+    pt: Student Exchange Support Program Grant
   subtitle:
-    de: Deutsche Forschungsgemeinschaft (DFG)
-    en: German Research Foundation (DFG)
-    pt: Fundação Alemã de Pesquisa (DFG)
+    fr: Japan Student Services Organization (JASSO)
+    jp: Japan Student Services Organization (JASSO)
+    de: Japan Student Services Organization (JASSO)
+    en: Japan Student Services Organization (JASSO)
+    pt: Japan Student Services Organization (JASSO)
   location:
-    de: 'Forschungsprojekt: "Demokratisierung in Autoritären Regimen", Freie Universität Berlin'
-    en: 'Research Project: "Democratization in Authoritarian Regimes," Freie Universität Berlin'
-    pt: 'Projeto de Pesquisa: "Democratização em Regimes Autoritários," Universidade Livre de Berlim'
-  left: "2022"
+    fr: Japon
+    jp: 日本
+    de: Japan
+    en: Japan
+    pt: Japão
+  left: "2016-2017"
   description:
-    de: "Fördersumme: 380.000 Euro"
-    en: "amount: 380,000 Euros"
-    pt: "valor: 380.000 Euros"
+    fr: JPY 960,000 (environ CAD 8900)
+    jp: JPY 960,000 (約 CAD 8900)
+    de: JPY 960.000 (ca. CAD 8900)
+    en: JPY 960,000 (approx. CAD 8900)
+    pt: JPY 960,000 (aprox. CAD 8900)

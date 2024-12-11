@@ -1,6 +1,6 @@
 lang:
   en:
-    subtitle: Short CV
+    subtitle: Academic CV
     education: Higher education
     work: Academic work experience (selection)
     grants: Scholarships & awards
@@ -13,7 +13,7 @@ lang:
     pubs-upcoming: Planned publications
     confs: Conferences & invited talks
     confs-conf: Conferences
-    exp-confs: "P: paper/presentation, C: chair"
+    exp-confs: "P: presentation, R: redaction of paper"
     confs-talks: Invited talks
     committee: Committee work & voluntary roles (selection)
     teaching: Teaching experience (Justus-Liebig-University Giessen)
@@ -59,7 +59,7 @@ lang:
     pubs-upcoming: Publications prévues
     confs: Conférences et présentations invitées
     confs-conf: Conférences
-    exp-confs: "P: présentation, C: président de séance"
+    exp-confs: "P: présentation, R: rédaction du papier"
     confs-talks: Présentations invitées
     committee: Comités et rôles bénévoles (sélection)
     teaching: Expérience d'enseignement (Université Justus-Liebig de Giessen)
@@ -105,7 +105,7 @@ lang:
     pubs-upcoming: 投稿予定論文
     confs: 学会発表・招待講演
     confs-conf: 学会発表
-    exp-confs: "P: 発表, C: 座長"
+    exp-confs: "P: 発表, R: 論文執筆"
     confs-talks: 招待講演
     committee: 委員会活動・社会貢献（抜粋）
     teaching: 教育歴（ギーセン大学）
@@ -150,7 +150,7 @@ lang:
     pubs-upcoming: Publicações em preparação
     confs: Conferências e Palestras convidadas
     confs-conf: Conferências
-    exp-confs: "P: artigo/apresentação, C: chair do painel"
+    exp-confs: "P: Präsentation, R: Verfassung des Papers"    
     confs-talks: Palestras convidadas
     committee: Trabalho em comité e funções voluntárias (seleção)
     teaching: Ensino (Justus-Liebig-Universidade Giessen)
@@ -197,7 +197,7 @@ lang:
     pubs-upcoming: geplante Publikationen
     confs: Konferenzen & Gastvorträge
     confs-conf: Konferenzen
-    exp-confs: "P: Paper/Präsentation, C: Chair"
+    exp-confs: "P: Apresentação, R: Redação do artigo"
     confs-talks: Gastvorträge
     committee: Akademische Selbstverwaltung & ehrenamtliche Funktionen (Auswahl)
     teaching: Lehrerfahrung (Justus-Liebig-Universität Gießen)

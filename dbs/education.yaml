@@ -1,3 +1,16 @@
+phd:
+  title:
+    en: Doctor of Philosophy in Political Science
+    fr: Doctorat en science politique
+    jp: 政治学博士
+  subtitle:
+    en: Department of Political Science
+    fr: Département de science politique
+  location:
+    en: Laval University
+    fr: Université Laval
+    jp: ラバル大学
+  left: "2023-"
 master:
   title:
     en: Master of International Peace Studies
@@ -11,22 +24,32 @@ master:
     en: Soka University
     fr: Université Soka
     jp: 創価大学
-  description:
-    en: GPA of 4.0/4.0
-    fr: Moyenne cumulative de 4.0/4.0
-    jp: GPA 4.0/4.0
-  left: "2021"
+  left: "2019-2021"
+certificate:
+  title:
+    en: Certificate in International Relations
+    fr: Certificat en relations internationales
+    jp: 国際関係証明書
+  subtitle:
+    en: School of Applied Politics
+    fr: École de politique appliquée
+    jp: 応用政治学研究科
+  location:
+    en: Sherbrooke University
+    fr: Université de Sherbrooke
+    jp: シャーブルック大学
+  left: "2018"
 bachelor:
   title:
     en: Bachelor in East Asian Studies
     fr: Majeure en études est-asiatiques
     jp: 東アジア研究学士
   subtitle:
-    en: Japan Specialization
-    fr: Spécialisation Japon
-    jp: 日本専攻
+    en: Asian Studies Center
+    fr: Centre d'études asiatiques
+    jp: アジア研究センター
   location:
     en: University of Montreal
     fr: Université de Montréal
     jp: モントリオール大学
-  left: "2017"
+  left: "2015-2017"

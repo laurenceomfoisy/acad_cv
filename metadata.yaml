@@ -1,7 +1,7 @@
 colors:
-  main_color: "#579D90"
+  main_color: "#000000"
   lightgray_color: "#d5d5d5"
-  gray_color: "#737373"
+  gray_color: "#000000"
 personal:
   name: ["M. Foisy, Laurence-Olivier"]
   split: true
@@ -21,18 +21,13 @@ personal:
       icon: orcid
       set: ai
       prefix: https://orcid.org
-    lattes:
-      username: "1234567891234567"
-      icon: lattes
-      set: ai
-      prefix: http://lattes.cnpq.br/
     github:
       username: laurenceomfoisy
       icon: github
       set: fa
       prefix: https://github.com/
     linkedin:
-      username: laurence-olivier-m-foisy-058645152
+      username: lomf
       icon: linkedin
       set: fa
       prefix: https://linkedin.com/in/
