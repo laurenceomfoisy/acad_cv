@@ -1,0 +1,32 @@
+master:
+  title:
+    en: Master of International Peace Studies
+    fr: Maîtrise en études de la paix internationale
+    jp: 国際平和学修士
+  subtitle:
+    en: School of International Peace Studies
+    fr: École d'études de la paix internationale
+    jp: 国際平和学研究科
+  location:
+    en: Soka University
+    fr: Université Soka
+    jp: 創価大学
+  description:
+    en: GPA of 4.0/4.0
+    fr: Moyenne cumulative de 4.0/4.0
+    jp: GPA 4.0/4.0
+  left: "2021"
+bachelor:
+  title:
+    en: Bachelor in East Asian Studies
+    fr: Majeure en études est-asiatiques
+    jp: 東アジア研究学士
+  subtitle:
+    en: Japan Specialization
+    fr: Spécialisation Japon
+    jp: 日本専攻
+  location:
+    en: University of Montreal
+    fr: Université de Montréal
+    jp: モントリオール大学
+  left: "2017"

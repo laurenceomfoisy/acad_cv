@@ -1,0 +1,232 @@
+lang:
+  en:
+    subtitle: Short CV
+    education: Higher education
+    work: Academic work experience (selection)
+    grants: Scholarships & awards
+    pubs: Publications
+    pubs-note: "C: Corresponding Author"
+    pubs-peer: Peer-reviewed journals
+    pubs-edited: Contributions in edited books
+    pubs-book: Books
+    pubs-reports: (Technical) Reports & teaching materials
+    pubs-upcoming: Planned publications
+    confs: Conferences & invited talks
+    confs-conf: Conferences
+    exp-confs: "P: paper/presentation, C: chair"
+    confs-talks: Invited talks
+    committee: Committee work & voluntary roles (selection)
+    teaching: Teaching experience (Justus-Liebig-University Giessen)
+    teaching-thesis: Supervised theses
+    teaching-courses: Teaching (selected)
+    training: Additional training (selection)
+    training-methods: Methods training
+    training-didactics: Didactics
+    tab-course: Course
+    tab-study: Study program
+    tab-year: Term
+    tab-note: "Course language: (de) German, (en) English"
+    table-summer: "Summer"
+    table-winter: "Winter"
+    others: Further skills
+    skills-computer: Computer languages
+    skills-programs: Software
+    skills-languages: Languages
+    skills-tab-skills: Skill
+    skills-tab-level: Level
+    skills-tab-comment: Comment
+    skills-leg1: basic knowledge
+    skills-leg2: intermediate knowledge
+    skills-leg3: extensive knowledge
+    skills-leg4: expert knowledge
+    pubstate-inpreparation: in preparation
+    pubstate-submitted: submitted
+    pubstate-forthcoming: forthcoming
+    pubstate-inpress: in press
+    pubstate-prepub: preprint
+    date-format: "[month repr:long] [day], [year]"
+  fr:
+    subtitle: Curriculum Vitae
+    education: Formation académique
+    work: Expérience professionnelle académique (sélection)
+    grants: Bourses et prix
+    pubs: Publications
+    pubs-note: "C: Auteur correspondant"
+    pubs-peer: Articles évalués par les pairs
+    pubs-edited: Contributions dans des ouvrages collectifs
+    pubs-book: Livres
+    pubs-reports: Rapports (techniques) et matériel pédagogique
+    pubs-upcoming: Publications prévues
+    confs: Conférences et présentations invitées
+    confs-conf: Conférences
+    exp-confs: "P: présentation, C: président de séance"
+    confs-talks: Présentations invitées
+    committee: Comités et rôles bénévoles (sélection)
+    teaching: Expérience d'enseignement (Université Justus-Liebig de Giessen)
+    teaching-thesis: Thèses supervisées
+    teaching-courses: Enseignement (sélection)
+    training: Formation complémentaire (sélection)
+    training-methods: Formation en méthodes
+    training-didactics: Didactique
+    tab-course: Cours
+    tab-study: Programme d'études
+    tab-year: Session
+    tab-note: "Langue du cours: (de) allemand, (en) anglais"
+    table-summer: "Été"
+    table-winter: "Hiver"
+    others: Compétences supplémentaires
+    skills-computer: Langages de programmation
+    skills-programs: Logiciels
+    skills-languages: Langues
+    skills-tab-skills: Compétence
+    skills-tab-level: Niveau
+    skills-tab-comment: Commentaire
+    skills-leg1: connaissances de base
+    skills-leg2: connaissances intermédiaires
+    skills-leg3: connaissances approfondies
+    skills-leg4: expertise avancée
+    pubstate-inpreparation: en préparation
+    pubstate-submitted: soumis
+    pubstate-forthcoming: à paraître
+    pubstate-inpress: sous presse
+    pubstate-prepub: prépublication
+    date-format: "[day] [month repr:long] [year]"
+  jp:
+    subtitle: 履歴書
+    education: 学歴
+    work: 職歴（抜粋）
+    grants: 奨学金・受賞歴
+    pubs: 研究業績
+    pubs-note: "C: 責任著者"
+    pubs-peer: 査読付き論文
+    pubs-edited: 編著書所収論文
+    pubs-book: 著書
+    pubs-reports: 技術報告書・教材
+    pubs-upcoming: 投稿予定論文
+    confs: 学会発表・招待講演
+    confs-conf: 学会発表
+    exp-confs: "P: 発表, C: 座長"
+    confs-talks: 招待講演
+    committee: 委員会活動・社会貢献（抜粋）
+    teaching: 教育歴（ギーセン大学）
+    teaching-thesis: 指導論文
+    teaching-courses: 担当科目（抜粋）
+    training: 研修歴（抜粋）
+    training-methods: 研究手法
+    training-didactics: 教授法
+    tab-course: 科目
+    tab-study: 課程
+    tab-year: 学期
+    tab-note: "授業言語：(de) ドイツ語、(en) 英語"
+    table-summer: "夏学期"
+    table-winter: "冬学期"
+    others: その他の技能
+    skills-computer: プログラミング言語
+    skills-programs: ソフトウェア
+    skills-languages: 言語
+    skills-tab-skills: スキル
+    skills-tab-level: レベル
+    skills-tab-comment: 備考
+    skills-leg1: 基礎知識
+    skills-leg2: 中級知識
+    skills-leg3: 上級知識
+    skills-leg4: 専門知識
+    pubstate-inpreparation: 準備中
+    pubstate-submitted: 投稿中
+    pubstate-forthcoming: 掲載予定
+    pubstate-inpress: 印刷中
+    pubstate-prepub: プレプリント
+  pt:
+    subtitle: Currículo
+    education: Formação acadêmica
+    work: Atuação profissional (seleção)
+    grants: Bolsas de estudo e prémios
+    pubs: Publicações
+    pubs-note: "C: Autor correspondente"
+    pubs-peer: Artigos publicados em periódicos (peer-review)
+    pubs-edited: Capítulos de livros publicados
+    pubs-book: Livros
+    pubs-reports: Relatórios (técnicos) e materiais de ensino
+    pubs-upcoming: Publicações em preparação
+    confs: Conferências e Palestras convidadas
+    confs-conf: Conferências
+    exp-confs: "P: artigo/apresentação, C: chair do painel"
+    confs-talks: Palestras convidadas
+    committee: Trabalho em comité e funções voluntárias (seleção)
+    teaching: Ensino (Justus-Liebig-Universidade Giessen)
+    teaching-thesis: Teses orientadas
+    teaching-courses: Cursos (seleção)
+    training: Formação complementar (seleção)
+    training-methods: Métodos
+    training-didactics: Didactico
+    tab-course: Curso
+    tab-study: Estudo
+    tab-year: Semestre
+    tab-note: "Idioma de curso: (de) alemão, (en) inglês"
+    table-summer: "Verão"
+    table-winter: "Inverno"
+    others: Outras competências
+    skills-computer: Idiomas de programação
+    skills-programs: Programas
+    skills-languages: Idiomas
+    skills-tab-skills: Skill
+    skills-tab-level: Nível
+    skills-tab-comment: Comentário
+    skills-leg1: básico
+    skills-leg2: intermediário
+    skills-leg3: amplo conhecimento
+    skills-leg4: conhecimento especializado
+    pubstate-inpreparation: em preparação
+    pubstate-submitted: submetido
+    pubstate-forthcoming: em publicação
+    pubstate-inpress: impresso
+    pubstate-prepub: pré-publicação
+    date-format: "[day]/[month]/[year]"
+    date-format: "[year]年[month]月[day]日"
+  de:
+    subtitle: Short CV
+    education: Hochschulbildung
+    work: Akademische Berufserfahrung (Auswahl)
+    grants: Fördermittel, Stipendien & Preise
+    pubs: Publikationen
+    pubs-note: "C: Korrespondierender Autor"
+    pubs-peer: Peer-reviewed Artikel
+    pubs-edited: Beiträge in Sammelbänden
+    pubs-book: Monographien
+    pubs-reports: (Technische) Berichte & Lehrmaterialien
+    pubs-upcoming: geplante Publikationen
+    confs: Konferenzen & Gastvorträge
+    confs-conf: Konferenzen
+    exp-confs: "P: Paper/Präsentation, C: Chair"
+    confs-talks: Gastvorträge
+    committee: Akademische Selbstverwaltung & ehrenamtliche Funktionen (Auswahl)
+    teaching: Lehrerfahrung (Justus-Liebig-Universität Gießen)
+    teaching-thesis: Betreute Abschlussarbeiten
+    teaching-courses: Lehre (ausgewählt)
+    training: Weiterbildungen (Auswahl)
+    training-methods: Methoden
+    training-didactics: Didaktik
+    tab-course: Kurs
+    tab-study: Studiengang
+    tab-year: Semester
+    tab-note: "Kurssprache: (en) Englisch"
+    table-summer: "Sommer"
+    table-winter: "Winter"
+    others: Weitere Kompetenzen
+    skills-computer: Computer-sprachen
+    skills-programs: Software
+    skills-languages: Sprachen
+    skills-tab-skills: Skill
+    skills-tab-level: Niveau
+    skills-tab-comment: Kommentar
+    skills-leg1: Grundkenntnisse
+    skills-leg2: erweiterte Kenntnisse
+    skills-leg3: umfassende Kenntnisse
+    skills-leg4: vertieftes Expertenwissen
+    pubstate-inpreparation: in Vorbereitung
+    pubstate-submitted: eingereicht
+    pubstate-forthcoming: im Erscheinen
+    pubstate-inpress: im Druck
+    pubstate-prepub: Preprint
+    date-format: "[day]. [month repr:long] [year]"
+
