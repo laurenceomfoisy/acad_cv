@@ -17,8 +17,8 @@ lang:
     exp-confs: "P: presentation, R: redaction of paper"
     confs-talks: Invited talks
     committee: Research groups & committees 
-    teaching: Teaching experience (Laval University)
-    teaching-thesis: Supervised theses
+    teaching: Teaching experience
+    pteaching-thesis: Supervised theses
     teaching-courses: Teaching (selected)
     training: Additional training (selection)
     training-methods: Methods training
@@ -65,7 +65,7 @@ lang:
     exp-confs: "P: présentation, R: rédaction du papier"
     confs-talks: Présentations invitées
     committee: Groupes de recherche et comités
-    teaching: Expérience d'enseignement (Université Laval)
+    teaching: Expérience d'enseignement 
     teaching-thesis: Thèses supervisées
     teaching-courses: Enseignement
     training: Formation complémentaire
@@ -113,7 +113,7 @@ lang:
     exp-confs: "P: 発表, R: 論文執筆"
     confs-talks: 招待講演
     committee: 委員会活動・社会貢献（抜粋）
-    teaching: 教育歴（ラバル大学）
+    teaching: 教育歴
     teaching-thesis: 指導論文
     teaching-courses: 担当科目（抜粋）
     training: 研修歴（抜粋）
@@ -160,7 +160,7 @@ lang:
     exp-confs: "P: Präsentation, R: Verfassung des Papers"    
     confs-talks: Palestras convidadas
     committee: Trabalho em comité e funções voluntárias (seleção)
-    teaching: Ensino (Universidade de Laval)
+    teaching: Ensino
     teaching-thesis: Teses orientadas
     teaching-courses: Cursos (seleção)
     training: Formação complementar (seleção)
@@ -209,7 +209,7 @@ lang:
     exp-confs: "P: Apresentação, R: Redação do artigo"
     confs-talks: Gastvorträge
     committee: Akademische Selbstverwaltung & ehrenamtliche Funktionen (Auswahl)
-    teaching: Lehrerfahrung (Université Laval)
+    teaching: Lehrerfahrung
     teaching-thesis: Betreute Abschlussarbeiten
     teaching-courses: Lehre (ausgewählt)
     training: Weiterbildungen (Auswahl)
