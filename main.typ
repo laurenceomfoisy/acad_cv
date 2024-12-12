@@ -51,21 +51,14 @@
     ] 
   }
 )  
-
-== #headerLabs.at("pubs-peer")
-#cv-refs(refs, multilingual, tag: "peer", me: [Mustermensch, M.], lang: language)
+== #headerLabs.at("pubs-conf")
+#cv-refs(refs, multilingual, tag: "conf", me: [M. Foisy, L-O.], lang: language)
 
 == #headerLabs.at("pubs-edited")
-#cv-refs(refs, multilingual, tag: "edited", me: [Mustermensch, M.], lang: language)
-
-== #headerLabs.at("pubs-book")
-#cv-refs(refs, multilingual, tag: "book", me: [Mustermensch, M.], lang: language)
-
-== #headerLabs.at("pubs-reports")
-#cv-refs(refs, multilingual, tag: "other", me: [Mustermensch, M.], lang: language)
+#cv-refs(refs, multilingual, tag: "edited", me: [M. Foisy, L-O.], lang: language)
 
 == #headerLabs.at("pubs-upcoming")
-#cv-refs(refs, multilingual, tag: "planned", me: [Mustermensch, M.], lang: language) 
+#cv-refs(refs, multilingual, tag: "planned", me: [M. Foisy, L-O.], lang: language) 
 
 = #headerLabs.at("confs") 
 == #headerLabs.at("confs-conf")

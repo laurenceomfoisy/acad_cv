@@ -1,102 +1,173 @@
-Mustermensch2023:
+mfoisyetal24:
   type: "article"
-  date: 2023
-  page-range: 55-78
-  title: 
-    main: "Populismus und soziale Medien: Eine vergleichende Studie zur politischen Mobilisierung"
-    en: "Populism and Social Media: A Comparative Study of Political Mobilization"
-    pt: "Populismo e redes sociais: Um Estudo Comparativo de Mobilização Política"
-  tags: "peer"
-  author: [ "Mustermensch, Momo", "Rivera, Casey" ]
+  date: 2024
+  title: "Beyond Multiple Choices: Capturing Nuanced Public Opinion with Large Language Models"
+  tags: "conf"
+  author: ["M. Foisy, Laurence-Olivier", "Cadieux, Hubert", "Dufresne, Yannick"]
   corresponding: true
   parent:
-    title: "Journal of Political Communication"
-    volume: 41
-    issue: 3
-  serial-number:
-    doi: "10.1016/j.jpolcom.2023.102865"
-Mustermensch2022:
+    title: "Conférence annuelle de l'Association canadienne de science politique"
+pelletieretal24:
   type: "article"
-  date: 2022
-  page-range: 201-220
-  title: "The Decline of Traditional Media in Electoral Politics: Evidence from European Democracies"
-  tags: "peer"
-  author: [ "Mustermensch, Momo" ]
+  date: 2024
+  title: "Peur et religiosité : La pandémie de COVID-19 au Canada : À travers le prisme de la peur de la mort et de la religiosité"
+  tags: "conf"
+  author:
+    [
+      "Pelletier, Camille",
+      "M. Foisy, Laurence-Olivier",
+      "Proulx, Étienne",
+      "Cadieux, Hubert",
+      "Dufresne, Yannick",
+    ]
   parent:
-    title: "European Journal of Political Science"
-    volume: 50
-    issue: 2
-  serial-number:
-    doi: "10.1080/ejps.2022.123456"
-Mustermensch2019:
-  type: "book"
-  date: 2019
-  title: "The Politics of Identity: Nationalism and Multiculturalism in the 21st Century"
-  tags: "book"
-  author: [ "Mustermensch, Momo", "Adler, Quinn" ]
-  parent:
-    publisher: "Global Politics Press"
-    location: "London"
-Mustermensch2021:
-  type: "book"
-  date: 2021
-  title: "Democratic Erosion: Challenges and Responses in Contemporary Democracies"
-  tags: "book"
-  author: [ "Mustermensch, Momo", "Parker, Avery" ]
-  parent:
-    publisher: "Cambridge University Press"
-    location: "Cambridge"
-Mustermensch2020:
-  type: "chapter"
-  date: 2020
-  page-range: 102-120
-  title: "Globalization and Sovereignty: The Impact of Supranational Institutions"
-  tags: "edited"
-  author: [ "Mustermensch, Momo" ]
-  parent:
-    title: "Global Governance in the 21st Century"
-    author: [ "Morgan, Taylor", "Lopez, Morgan" ]
-    publisher: "Oxford University Press"
-    location: "Oxford"
-Mustermensch2018:
-  type: "chapter"
-  date: 2018
-  page-range: 67-85
-  title: "The Role of Civil Society in Authoritarian Regimes"
-  tags: "edited"
-  author: [ "Mustermensch, Momo", "Nguyen, Alex" ]
-  parent:
-    title: "Authoritarianism and Civil Society"
-    author: [ "Khan, Taylor", "Santos, Skylar" ]
-    publisher: "Routledge"
-    location: "New York"
-Mustermensch2023Report:
-  type: "report"
+    title: "Conférence annuelle de l'Association canadienne de science politique"
+mfoisyetal23a:
+  type: "article"
   date: 2023
-  title: "Election Integrity in the Digital Age: A Policy Framework"
-  tags: "other"
-  author: [ "Mustermensch, Momo", "Garcia, Jordan" ]
+  title: "Ain't No Party Like a GPT Party: Assessing GPT-4 Political Alignment Classification Capabilities"
+  tags: "conf"
+  author:
+    [
+      "M. Foisy, Laurence-Olivier",
+      "Drouin, Jérémie",
+      "Pelletier, Camille",
+      "Rivest, Jozef",
+      "Cadieux, Hubert",
+      "Dufresne, Yannick",
+    ]
+  corresponding: true
   parent:
-    archive: "International Institute for Democracy"
-    location: "Brussels"
-Mustermensch2022Report:
-  type: "report"
-  date: 2022
-  title: "Social Movements and Political Change: A Comparative Study"
-  tags: "other"
-  author: [ "Mustermensch, Momo" ]
-  parent:
-    archive: "Institute for Social Research"
-    location: "Berlin"
-Mustermensch2024Planned:
-  type: "planned-publication"
-  pubstate: submitted
-  title: "The Future of Liberal Democracy in an Era of Polarization"
-  tags: "planned"
-  author: [ "Mustermensch, Momo", "Kim, Sky" ]
-Mustermensch2025Planned:
+    title: "SPSA annual meeting conference"
+gilbertetal23:
   type: "article"
-  pubstate: inpreparation
-  title: "Cybersecurity and State Sovereignty: A New Challenge for Global Politics"
+  date: 2023
+  title: "A Tale of Two Algorithms : Datagotchi vs ChatGPT in Predicting Vote Choices from Lifestyle Data"
+  tags: "conf"
+  author:
+    [
+      "Gilbert, Jérémy",
+      "Ouellet, Catherine",
+      "Pelletier, Camille",
+      "Vincent, Sarah-Jane",
+      "M. Foisy, Laurence-Olivier",
+      "Dufresne, Yannick",
+    ]
+  parent:
+    title: "SPSA annual meeting conference"
+vincentetal23:
+  type: "article"
+  date: 2023
+  title: "Confronting IA to Empirical Data : Exploring Gender and Ethnic Biases in ChatGPT's Reponses"
+  tags: "conf"
+  author:
+    [
+      "Vincent, Sarah-Jane",
+      "Cadieux, Hubert",
+      "Drouin, Jérémie",
+      "M. Foisy, Laurence-Olivier",
+      "Gilbert, Jérémy",
+      "Dufresne, Yannick",
+    ]
+  parent:
+    title: "SPSA annual meeting conference"
+rancourtetal24:
+  type: "chapter"
+  date: 2024
+  page-range: 6
+  title: "Langages de programmation"
+  tags: "edited"
+  author: ["Rancourt, Marc-Antoine", "M. Foisy, Laurence-Olivier"]
+  parent:
+    title: "Outils de recherche en sciences sociales numériques"
+    author: ["Cloutier, Adrien", "Dufresne, Yannick", "Bibeau-Gagnon, Alexis"]
+    publisher: "Les Presses de l'Université Laval"
+    location: "Québec"
+vincentetal24:
+  type: "chapter"
+  date: 2024
+  page-range: 8
+  title: "Outils de gestion de la littérature et des références"
+  tags: "edited"
+  author:
+    ["Vincent, Sarah-Jane", "M. Foisy, Laurence-Olivier", "Pelletier, Camille"]
+  parent:
+    title: "Outils de recherche en sciences sociales numériques"
+    author: ["Cloutier, Adrien", "Dufresne, Yannick", "Bibeau-Gagnon, Alexis"]
+    publisher: "Les Presses de l'Université Laval"
+    location: "Québec"
+rivestetal24:
+  type: "chapter"
+  date: 2024
+  page-range: 21
+  title: "Outils d'intelligence artificielle"
+  tags: "edited"
+  author: ["Rivest, Jozef", "M. Foisy, Laurence-Olivier", "Cadieux, Hubert"]
+  parent:
+    title: "Outils de recherche en sciences sociales numériques"
+    author: ["Cloutier, Adrien", "Dufresne, Yannick", "Bibeau-Gagnon, Alexis"]
+    publisher: "Les Presses de l'Université Laval"
+    location: "Québec"
+mfoisy24:
+  type: "chapter"
+  date: 2024
+  page-range: 4
+  title: "L'Ordinateur"
+  tags: "edited"
+  author: ["M. Foisy, Laurence-Olivier"]
+  parent:
+    title: "Outils de recherche en sciences sociales numériques"
+    author: ["Cloutier, Adrien", "Dufresne, Yannick", "Bibeau-Gagnon, Alexis"]
+    publisher: "Les Presses de l'Université Laval"
+    location: "Québec"
+mfoisyetal24a:
+  type: "article"
+  pubstate: rnr
+  title: "Ain't No Party Like a GPT Party: Assessing GPT-4 Political Alignment Classification Capabilities"
   tags: "planned"
-  author: [ "Mustermensch, Momo", "Singh, Cameron" ]
+  author:
+    [
+      "M. Foisy, Laurence-Olivier",
+      "Drouin, Jérémie",
+      "Pelletier, Camille",
+      "Rivest, Jozef",
+      "Cadieux, Hubert",
+      "Dufresne, Yannick",
+    ]
+  corresponding: true
+  parent:
+    title: "Journal of Information Technology & Politics"
+mfoisyetal24b:
+  type: "article"
+  pubstate: submitted
+  title: "Prompting the Machine: Introducing a LLM Data Extraction Method for Social Scientists"
+  tags: "planned"
+  author:
+    [
+      "M. Foisy, Laurence-Olivier",
+      "Proulx, Étienne",
+      "Cadieux, Hubert",
+      "Rivest, Jozef",
+      "Gilbert, Jérémy",
+      "Bouillon, Alexandre",
+      "Dufresne, Yannick",
+    ]
+  corresponding: true
+  parent:
+    title: "Social Science Computer Review"
+gilbertetal24a:
+  type: "article"
+  pubstate: submitted
+  title: "A Tale of Two Algorithms: ChatGPT vs. Classic Sociological Regression Models for Predicting Vote Intentions"
+  tags: "planned"
+  author:
+    [
+      "Gilbert, Jérémy",
+      "Ouellet, Catherine",
+      "Pelletier, Camille",
+      "Vincent, Sarah-Jane",
+      "M. Foisy, Laurence-Olivier",
+      "Dufresne, Yannick",
+    ]
+  parent:
+    title: "Canadian Journal of Political Science"

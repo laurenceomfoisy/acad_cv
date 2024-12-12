@@ -15,12 +15,12 @@ personal:
       username: laurenceoliviermfoisy.com
       icon: globe
       set: fa
-      prefix: https://
+      prefix: https://www.
     orcid:
       username: 0009-0004-7505-9477
       icon: orcid
       set: ai
-      prefix: https://orcid.org
+      prefix: https://orcid.org/
     github:
       username: laurenceomfoisy
       icon: github

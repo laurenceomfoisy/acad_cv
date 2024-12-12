@@ -100,9 +100,9 @@ languages:
     level: 4
     description:
       de: Muttersprache
-      en: native tongue
-      pt: língua materna
-      fr: langue maternelle
+      en: Native tongue
+      pt: Língua materna
+      fr: Langue maternelle
       jp: 母国語
   english:
     name:
@@ -113,11 +113,11 @@ languages:
       pt: Inglês
     level: 4
     description:
-      fr: courant à l'écrit et à l'oral
+      fr: Courant à l'écrit et à l'oral
       jp: 話し言葉と書き言葉の両方で流暢
-      de: fließend in Wort und Schrift
-      en: fluent in speech and writing
-      pt: fluente (escrito e falando)
+      de: Fließend in Wort und Schrift
+      en: Fluent in speech and writing
+      pt: Fluente (escrito e falando)
   japanese:
     name:
       fr: Japonais
@@ -127,8 +127,8 @@ languages:
       pt: Japonês
     level: 2
     description:
-      fr: niveau intermédiaire
+      fr: Niveau intermédiaire
       jp: 中級
-      de: mittleres Niveau
-      en: intermediate level
-      pt: nível intermediário
+      de: Mittleres Niveau
+      en: Intermediate level
+      pt: Nível intermediário

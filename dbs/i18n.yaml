@@ -3,19 +3,20 @@ lang:
     subtitle: Academic CV
     education: Higher education
     work: Academic work experience 
-    grants: Scholarships & awards
+    grants: Scholarships
     pubs: Publications
-    pubs-note: "C: Corresponding Author"
+    pubs-note: ""
     pubs-peer: Peer-reviewed journals
     pubs-edited: Contributions in edited books
     pubs-book: Books
-    pubs-reports: (Technical) Reports & teaching materials
+    pubs-conf: Conference papers
+    pubs-reports: (Technical) Reports & teaching material
     pubs-upcoming: Planned publications
     confs: Conferences & invited talks
     confs-conf: Conferences
     exp-confs: "P: presentation, R: redaction of paper"
     confs-talks: Invited talks
-    committee: Committee work & voluntary roles (selection)
+    committee: Research groups & committees 
     teaching: Teaching experience (Laval University)
     teaching-thesis: Supervised theses
     teaching-courses: Teaching (selected)
@@ -25,7 +26,7 @@ lang:
     tab-course: Subject taught
     tab-study: Course name
     tab-year: Term
-    tab-note: "Entire courses taught as part of a professor replacement"
+    tab-note: "Courses taught as part of a professor replacement"
     table-summer: "Fall"
     table-winter: "Winter"
     others: Further skills
@@ -41,6 +42,7 @@ lang:
     skills-leg4: expert knowledge
     pubstate-inpreparation: in preparation
     pubstate-submitted: submitted
+    pubstate-rnr: revise and resubmit
     pubstate-forthcoming: forthcoming
     pubstate-inpress: in press
     pubstate-prepub: preprint
@@ -49,29 +51,30 @@ lang:
     subtitle: Curriculum Vitae
     education: Formation académique
     work: Expérience professionnelle académique 
-    grants: Bourses et prix
+    grants: Bourses
     pubs: Publications
-    pubs-note: "C: Auteur correspondant"
+    pubs-note: ""
     pubs-peer: Articles évalués par les pairs
     pubs-edited: Contributions dans des ouvrages collectifs
-    pubs-book: Livres
+    pubs-book: Monographies
+    pubs-conf: Papiers de conférence
     pubs-reports: Rapports (techniques) et matériel pédagogique
     pubs-upcoming: Publications prévues
     confs: Conférences et présentations invitées
     confs-conf: Conférences
     exp-confs: "P: présentation, R: rédaction du papier"
     confs-talks: Présentations invitées
-    committee: Comités et rôles bénévoles (sélection)
+    committee: Groupes de recherche et comités
     teaching: Expérience d'enseignement (Université Laval)
     teaching-thesis: Thèses supervisées
-    teaching-courses: Enseignement (sélection)
-    training: Formation complémentaire (sélection)
+    teaching-courses: Enseignement
+    training: Formation complémentaire
     training-methods: Formation en méthodes
     training-didactics: Didactique
     tab-course: Matière enseignée
     tab-study: Nom du cours
     tab-year: Session
-    tab-note: "Cours entier enseignés dans le cadre d'un remplacement de professeur"    
+    tab-note: "Cours enseignés dans le cadre d'un remplacement de professeur"    
     table-summer: "Automne"
     table-winter: "Hiver"
     others: Compétences supplémentaires
@@ -87,6 +90,7 @@ lang:
     skills-leg4: expertise avancée
     pubstate-inpreparation: en préparation
     pubstate-submitted: soumis
+    pubstate-rnr: réviser et soumettre à nouveau
     pubstate-forthcoming: à paraître
     pubstate-inpress: sous presse
     pubstate-prepub: prépublication
@@ -101,6 +105,7 @@ lang:
     pubs-peer: 査読付き論文
     pubs-edited: 編著書所収論文
     pubs-book: 著書
+    pub-conf: 学会論文
     pubs-reports: 技術報告書・教材
     pubs-upcoming: 投稿予定論文
     confs: 学会発表・招待講演
@@ -133,6 +138,7 @@ lang:
     skills-leg4: 専門知識
     pubstate-inpreparation: 準備中
     pubstate-submitted: 投稿中
+    pubstate-rnr: 修正提出
     pubstate-forthcoming: 掲載予定
     pubstate-inpress: 印刷中
     pubstate-prepub: プレプリント
@@ -146,6 +152,7 @@ lang:
     pubs-peer: Artigos publicados em periódicos (peer-review)
     pubs-edited: Capítulos de livros publicados
     pubs-book: Livros
+    pubs-conf: Artigos de conferência
     pubs-reports: Relatórios (técnicos) e materiais de ensino
     pubs-upcoming: Publicações em preparação
     confs: Conferências e Palestras convidadas
@@ -178,6 +185,7 @@ lang:
     skills-leg4: conhecimento especializado
     pubstate-inpreparation: em preparação
     pubstate-submitted: submetido
+    pubstate-rnr: revisar e resubmeter
     pubstate-forthcoming: em publicação
     pubstate-inpress: impresso
     pubstate-prepub: pré-publicação
@@ -193,6 +201,7 @@ lang:
     pubs-peer: Peer-reviewed Artikel
     pubs-edited: Beiträge in Sammelbänden
     pubs-book: Monographien
+    pubs-conf: Konferenzbeiträge
     pubs-reports: (Technische) Berichte & Lehrmaterialien
     pubs-upcoming: geplante Publikationen
     confs: Konferenzen & Gastvorträge
@@ -225,6 +234,7 @@ lang:
     skills-leg4: vertieftes Expertenwissen
     pubstate-inpreparation: in Vorbereitung
     pubstate-submitted: eingereicht
+    pubstate-rnr: Überarbeitung und erneute Einreichung
     pubstate-forthcoming: im Erscheinen
     pubstate-inpress: im Druck
     pubstate-prepub: Preprint

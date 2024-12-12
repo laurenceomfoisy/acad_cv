@@ -78,6 +78,86 @@ ta4:
     en: Laval University
     pt: Universidade Laval
   left: "2024"
+ra3:
+  title:
+    fr: Auxiliaire de recherche
+    jp: リサーチアシスタント
+    de: forschungsassistent
+    en: research assistant
+    pt: Assistente de pesquisa
+  subtitle:
+    fr: Centre d'analyse des politiques publiques (CAPP)
+    jp: Centre d'analyse des politiques publiques (CAPP)
+    de: Centre d'analyse des politiques publiques (CAPP)
+    en: Centre for Public Policy Analysis (CAPP)
+    pt: Centro de Análise de Políticas Públicas (CAPP)
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    de: Université Laval
+    en: Laval University
+    pt: Universidade Laval
+  left: "2024"
+ra2:
+  title:
+    fr: Auxiliaire de recherche
+    jp: リサーチアシスタント
+    de: forschungsassistent
+    en: research assistant
+    pt: Assistente de pesquisa
+  subtitle:
+    fr: Centre interdisciplinaire de recherche sur l'Afrique et le Moyen-Orient (CIRAM)
+    jp: Centre interdisciplinaire de recherche sur l'Afrique et le Moyen-Orient (CIRAM)
+    de: Centre interdisciplinaire de recherche sur l'Afrique et le Moyen-Orient (CIRAM)
+    en: Interdisciplinary Research Center on Africa and the Middle East (CIRAM)
+    pt: Centro Interdisciplinar de Pesquisa sobre a África e o Oriente Médio (CIRAM)
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    de: Université Laval
+    en: Laval University
+    pt: Universidade Laval
+  left: "2024"
+mentor2:
+  title:
+    fr: Mentor
+    jp: メンター
+    de: Mentor
+    en: Mentor
+    pt: Mentor
+  subtitle:
+    fr: "Atelier « Interpréter et explorer : Approfondissement en analyse de données avec R » organisé par la Faculté des sciences sociales (FSS)"
+    jp: "「解釈と探索：Rによるデータ分析の深化」ワークショップは社会科学部（FSS）が主催"
+    de: "Workshop „Interpretieren und erkunden: Vertiefung der Datenanalyse mit R“ organisiert von der Fakultät für Sozialwissenschaften (FSS)"
+    en: "“Interpret and Explore: Deepening Data Analysis with R” workshop organized by the Faculty of Social Sciences (FSS)"
+    pt: "Workshop “Interpretar e explorar: Aprofundando a análise de dados com R” organizado pela Faculdade de Ciências Sociais (FSS)"
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    de: Université Laval
+    en: Laval University
+    pt: Universidade Laval
+  left: "2024"
+mentor1:
+  title:
+    fr: Mentor
+    jp: メンター
+    de: Mentor
+    en: Mentor
+    pt: Mentor
+  subtitle:
+    fr: Cliniques d'entraide « code-review » en R de la Faculté des sciences sociales (FSS)
+    jp: 社会科学部のR「コードレビュー」ヘルプクリニック
+    de: „Code-Review“-Hilfsklinik in R der Fakultät für Sozialwissenschaften (FSS)
+    en: R ‘code-review’ help clinics of the Faculty of Social Sciences (FSS)
+    pt: Clínicas de ajuda ‘code-review’ em R da Faculdade de Ciências Sociais (FSS)
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    de: Université Laval
+    en: Laval University
+    pt: Universidade Laval
+  left: "2024"
 ta3:
   title:
     fr: Auxiliaire d'enseignement
@@ -138,46 +218,6 @@ ta1:
     en: Laval University
     pt: Universidade Laval
   left: "2023"
-ra3:
-  title:
-    fr: Auxiliaire de recherche
-    jp: リサーチアシスタント
-    de: forschungsassistent
-    en: research assistant
-    pt: Assistente de pesquisa
-  subtitle:
-    fr: Centre d'analyse des politiques publiques (CAPP)
-    jp: Centre d'analyse des politiques publiques (CAPP)
-    de: Centre d'analyse des politiques publiques (CAPP)
-    en: Centre for Public Policy Analysis (CAPP)
-    pt: Centro de Análise de Políticas Públicas (CAPP)
-  location:
-    fr: Université Laval
-    jp: ラバル大学
-    de: Université Laval
-    en: Laval University
-    pt: Universidade Laval
-  left: "2024"
-ra2:
-  title:
-    fr: Auxiliaire de recherche
-    jp: リサーチアシスタント
-    de: forschungsassistent
-    en: research assistant
-    pt: Assistente de pesquisa
-  subtitle:
-    fr: Centre interdisciplinaire de recherche sur l'Afrique et le Moyen-Orient (CIRAM)
-    jp: Centre interdisciplinaire de recherche sur l'Afrique et le Moyen-Orient (CIRAM)
-    de: Centre interdisciplinaire de recherche sur l'Afrique et le Moyen-Orient (CIRAM)
-    en: Interdisciplinary Research Center on Africa and the Middle East (CIRAM)
-    pt: Centro Interdisciplinar de Pesquisa sobre a África e o Oriente Médio (CIRAM)
-  location:
-    fr: Université Laval
-    jp: ラバル大学
-    de: Université Laval
-    en: Laval University
-    pt: Universidade Laval
-  left: "2024"
 ra1:
   title:
     fr: Auxiliaire de recherche
@@ -198,43 +238,3 @@ ra1:
     en: Laval University
     pt: Universidade Laval
   left: "2023"
-mentor2:
-  title:
-    fr: Mentor
-    jp: メンター
-    de: Mentor
-    en: Mentor
-    pt: Mentor
-  subtitle:
-    fr: "Atelier « Interpréter et explorer : Approfondissement en analyse de données avec R » organisé par la Faculté des sciences sociales (FSS)"
-    jp: "「解釈と探索：Rによるデータ分析の深化」ワークショップは社会科学部（FSS）が主催"
-    de: "Workshop „Interpretieren und erkunden: Vertiefung der Datenanalyse mit R“ organisiert von der Fakultät für Sozialwissenschaften (FSS)"
-    en: "“Interpret and Explore: Deepening Data Analysis with R” workshop organized by the Faculty of Social Sciences (FSS)"
-    pt: "Workshop “Interpretar e explorar: Aprofundando a análise de dados com R” organizado pela Faculdade de Ciências Sociais (FSS)"
-  location:
-    fr: Université Laval
-    jp: ラバル大学
-    de: Université Laval
-    en: Laval University
-    pt: Universidade Laval
-  left: "2024"
-mentor1:
-  title:
-    fr: Mentor
-    jp: メンター
-    de: Mentor
-    en: Mentor
-    pt: Mentor
-  subtitle:
-    fr: Cliniques d'entraide « code-review » en R de la Faculté des sciences sociales (FSS)
-    jp: 社会科学部のR「コードレビュー」ヘルプクリニック
-    de: „Code-Review“-Hilfsklinik in R der Fakultät für Sozialwissenschaften (FSS)
-    en: R ‘code-review’ help clinics of the Faculty of Social Sciences (FSS)
-    pt: Clínicas de ajuda ‘code-review’ em R da Faculdade de Ciências Sociais (FSS)
-  location:
-    fr: Université Laval
-    jp: ラバル大学
-    de: Université Laval
-    en: Laval University
-    pt: Universidade Laval
-  left: "2024"
