@@ -1,3 +1,20 @@
+mfoisyetal25:
+  type: "article"
+  date: 2025
+  title: "Ain't No Party Like a GPT Party: Assessing GPT-4 Political Alignment Classification Capabilities"
+  tags: "peer"
+  author:
+    [
+      "M. Foisy, Laurence-Olivier",
+      "Drouin, Jérémie",
+      "Pelletier, Camille",
+      "Rivest, Jozef",
+      "Cadieux, Hubert",
+      "Dufresne, Yannick",
+    ]
+  corresponding: true
+  parent:
+    title: "Journal of Information Technology & Politics"
 mfoisyetal24:
   type: "article"
   date: 2024
@@ -120,26 +137,26 @@ mfoisy24:
     author: ["Cloutier, Adrien", "Dufresne, Yannick", "Bibeau-Gagnon, Alexis"]
     publisher: "Les Presses de l'Université Laval"
     location: "Québec"
-mfoisyetal24a:
+pelletieretal25:
   type: "article"
-  pubstate: rnr
-  title: "Ain't No Party Like a GPT Party: Assessing GPT-4 Political Alignment Classification Capabilities"
+  pubstate: submitted
+  title: "Religiosity in Times of Crisis: Uncovering Canadians’ Responses to COVID-19 through Terror Management Theory"
   tags: "planned"
   author:
     [
+      "Pelletier, Camille",
+      "Proulx, Étienne",
       "M. Foisy, Laurence-Olivier",
       "Drouin, Jérémie",
-      "Pelletier, Camille",
-      "Rivest, Jozef",
       "Cadieux, Hubert",
       "Dufresne, Yannick",
     ]
-  corresponding: true
+  corresponding: false
   parent:
-    title: "Journal of Information Technology & Politics"
+    title: "Politics and Religion"
 mfoisyetal24b:
   type: "article"
-  pubstate: submitted
+  pubstate: rnr
   title: "Prompting the Machine: Introducing a LLM Data Extraction Method for Social Scientists"
   tags: "planned"
   author:

@@ -51,6 +51,9 @@
     ] 
   }
 )  
+== #headerLabs.at("pubs-peer")
+#cv-refs(refs, multilingual, tag: "peer", me: [M. Foisy, L-O.], lang: language)
+
 == #headerLabs.at("pubs-conf")
 #cv-refs(refs, multilingual, tag: "conf", me: [M. Foisy, L-O.], lang: language)
 
