@@ -16,7 +16,7 @@
 #let skills = yaml("dbs/skills.yaml")
 
 // set the language of the document
-#let language = "fr"      
+#let language = "en"      
 
 // defining variables
 #let headerLabs = create-headers(multilingual, lang: language)
