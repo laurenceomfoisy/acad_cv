@@ -1,3 +1,79 @@
+mfoisyetal25b:
+  type: "article"
+  date: 2025
+  title: "Beyond Language Barriers: Evaluating the Efficacy of Large Language Models in Analyzing Sentiment in Non-English Textual Data"
+  tags: "conf"
+  author:
+    [
+      "M. Foisy, Laurence-Olivier",
+      "Pelletier, Camille",
+      "Proulx, Étienne",
+      "Vincent, Sarah-Jane",
+      "Temporão, Mickael",
+      "Dufresne, Yannick",
+    ]
+  parent:
+    title: "Midwest Political Science Association Annual Conference"
+pelletieretal25b:
+  type: "article"
+  date: 2025
+  title: "Beyond Church and State: Investigating Attitudes on Abortion in the 2024 US Elections"
+  tags: "conf"
+  author:
+    [
+      "Pelletier, Camille",
+      "M. Foisy, Laurence-Olivier",
+      "Drouin, Jérémie",
+      "Gervasi, Kassandra",
+      "Proulx, Étienne",
+      "Dufresne, Yannick",
+    ]
+  parent:
+    title: "Midwest Political Science Association Annual Conference"
+temporaoetal25:
+  type: "article"
+  date: 2025
+  title: "When Less is More: The Role of Low-Quality Information on Affective Polarization"
+  tags: "conf"
+  author:
+    [
+      "Temporão, Mickael",
+      "M. Foisy, Laurence-Olivier",
+      "Drouin, Jérémie",
+      "Dufresne, Yannick",
+    ]
+  parent:
+    title: "Midwest Political Science Association Annual Conference"
+proulxetal25:
+  type: "article"
+  date: 2025
+  title: "Cultural Dimension of Trust and Fear: A Comparative Study of Public Attitudes Toward Artificial Intelligence in Japan and Canada"
+  tags: "conf"
+  author:
+    [
+      "Proulx, Étienne",
+      "Rivest, Jozef",
+      "Pelletier, Camille",
+      "M. Foisy, Laurence-Olivier",
+      "Dufresne, Yannick",
+    ]
+  parent:
+    title: "Midwest Political Science Association Annual Conference"
+vincentetal25:
+  type: "article"
+  date: 2025
+  title: "Has Anything Changed Since 'Prius or Pickup'? A Fresh Look at American Divides"
+  tags: "conf"
+  author:
+    [
+      "Vincent, Sarah-Jane",
+      "Gilbert, Jérémy",
+      "Ouellet, Catherine",
+      "M. Foisy, Laurence-Olivier",
+      "Dufresne, Yannick",
+    ]
+  parent:
+    title: "Midwest Political Science Association Annual Conference"
 mfoisyetal25:
   type: "article"
   date: 2025
@@ -55,7 +131,7 @@ mfoisyetal23a:
     ]
   corresponding: true
   parent:
-    title: "SPSA annual meeting conference"
+    title: "Southern Political Science Association Annual Meeting Conference"
 gilbertetal23:
   type: "article"
   date: 2023
@@ -71,7 +147,7 @@ gilbertetal23:
       "Dufresne, Yannick",
     ]
   parent:
-    title: "SPSA annual meeting conference"
+    title: "Southern Political Science Association Annual Meeting Conference"
 vincentetal23:
   type: "article"
   date: 2023
@@ -87,7 +163,7 @@ vincentetal23:
       "Dufresne, Yannick",
     ]
   parent:
-    title: "SPSA annual meeting conference"
+    title: "Southern Political Science Association Annual Meeting Conference"
 rancourtetal24:
   type: "chapter"
   date: 2024

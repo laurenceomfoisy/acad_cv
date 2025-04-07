@@ -1,5 +1,8 @@
-// #import "modern-acad-cv.typ": *
+// Import the package
 #import "@preview/modern-acad-cv:0.1.0": *
+
+// Import custom functions (with our fixed cv-refs function)
+#import "cv-functions.typ": cv-refs
 
 // loading meta data and databases (needs to be ad this directory)
 #let metadata = yaml("metadata.yaml") 
