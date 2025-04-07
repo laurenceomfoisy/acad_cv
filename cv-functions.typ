@@ -150,18 +150,23 @@
     } else {
       // Add parent information such as the title of the journal or volume number
       if "parent" in fields and "title" in fields.parent {
-        reference += [. #emph(fields.parent.title),]
+        reference += [. #emph(fields.parent.title)]
+        // Only add comma if volume or issue follows
+        if "parent" in fields and ("volume" in fields.parent or "issue" in fields.parent) {
+          reference += [,]
+        }
       }
       if "parent" in fields and "volume" in fields.parent {
         reference += [ #emph(str(fields.parent.volume))]
       }
       if "parent" in fields and "issue" in fields.parent {
-        reference += [(#emph(str(fields.parent.issue))),]
-      } else {
-        reference += [,]
+        reference += [(#emph(str(fields.parent.issue)))]
       }
       if "page-range" in fields {
         reference += [ #fields.page-range.]
+      } else if "parent" in fields and "title" in fields.parent {
+        // Add period if we have a parent title but no page range
+        reference += [.]
       }
       if "serial-number" in fields and "doi" in fields.serial-number {
         let url = "https://doi.org/" + fields.serial-number.doi

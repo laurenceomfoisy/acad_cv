@@ -74,10 +74,10 @@ vincentetal25:
     ]
   parent:
     title: "Midwest Political Science Association Annual Conference"
-mfoisyetal25:
+mfoisyetal24p:
   type: "article"
-  date: 2025
-  title: "Ain't No Party Like a GPT Party: Assessing GPT-4 Political Alignment Classification Capabilities"
+  date: 2024
+  title: "Ain't No Party Like a GPT Party: Assessing OpenAI's GPT Political Alignment Classification Capabilities"
   tags: "peer"
   author:
     [
@@ -91,6 +91,9 @@ mfoisyetal25:
   corresponding: true
   parent:
     title: "Journal of Information Technology & Politics"
+  page-range: "1–13"
+  serial-number:
+    doi: "10.1080/19331681.2024.2444587"
 mfoisyetal24:
   type: "article"
   date: 2024
