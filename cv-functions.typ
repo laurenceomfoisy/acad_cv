@@ -213,6 +213,30 @@
       let url = "https://doi.org/" + fields.serial-number.doi
       reference += [ #link(url)[#url]]
     }
+  } else if fields.type == "software" { // Handle software packages
+    reference += format_authors(authors, 6, me)
+    reference += format_date(fields, lang)
+    reference += format_title(fields.title, lang)
+
+    // Include parent information (e.g., CRAN, GitHub)
+    if "parent" in fields and "title" in fields.parent {
+      reference += [. Available from: #fields.parent.title]
+    }
+    
+    // Include version if available
+    if "version" in fields {
+      reference += [ (version #fields.version)]
+    }
+    
+    // Add URL or DOI
+    if "serial-number" in fields and "url" in fields.serial-number {
+      reference += [. #link(fields.serial-number.url)[#fields.serial-number.url]]
+    } else if "serial-number" in fields and "doi" in fields.serial-number {
+      let url = "https://doi.org/" + fields.serial-number.doi
+      reference += [. #link(url)[#url]]
+    } else {
+      reference += [.]
+    }
   } else { // Handle other types of references
     reference += format_authors(authors, 6, me)
     reference += format_date(fields, lang)
@@ -268,6 +292,7 @@
   let incollections = 0
   let books = 0
   let others = 0
+  let software = 0
   let planned = 0
 
   // Loop through each entry in the YAML file to count the types of publications
@@ -294,6 +319,8 @@
       incollections += 1
     } else if field.type == "book" {
       books += 1
+    } else if field.tags == "software" {
+      software += 1
     } else if field.tags == "other" {
       others += 1
     } 
@@ -329,6 +356,9 @@
     } else if fields.type == "book" {
       [\[#books\] ]
       books -= 1
+    } else if fields.tags == "software" {
+      [\[#software\] ]
+      software -= 1
     } else if fields.tags == "other" {
       [\[#others\] ]
       others -= 1

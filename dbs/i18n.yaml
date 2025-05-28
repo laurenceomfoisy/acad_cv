@@ -11,6 +11,7 @@ lang:
     pubs-book: Books
     pubs-conf: Conference papers
     pubs-reports: (Technical) Reports & teaching material
+    pubs-software: Packages, Libraries, and Software
     pubs-upcoming: Planned publications
     confs: Conferences & invited talks
     confs-conf: Conferences
@@ -59,6 +60,7 @@ lang:
     pubs-book: Monographies
     pubs-conf: Papiers de conférence
     pubs-reports: Rapports (techniques) et matériel pédagogique
+    pubs-software: Packages, bibliothèques et logiciels
     pubs-upcoming: Publications prévues
     confs: Conférences et présentations invitées
     confs-conf: Conférences

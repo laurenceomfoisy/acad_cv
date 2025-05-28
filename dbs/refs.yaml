@@ -1,3 +1,14 @@
+# Example R package entry - replace with your actual package details
+mfoisypackage:
+  type: "software"
+  date: 2025
+  title: "ces: Access to Canadian Election Study Data"
+  tags: "software"
+  author: ["M. Foisy, Laurence-Olivier"]
+  parent:
+    title: "CRAN"
+  serial-number:
+    url: "https://cran.r-project.org/web/packages/ces/"
 mfoisyetal25c:
   type: "article"
   date: 2024

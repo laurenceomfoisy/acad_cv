@@ -63,6 +63,9 @@
 == #headerLabs.at("pubs-edited")
 #cv-refs(refs, multilingual, tag: "edited", me: [M. Foisy, L-O.], lang: language)
 
+== #headerLabs.at("pubs-software")
+#cv-refs(refs, multilingual, tag: "software", me: [M. Foisy, L-O.], lang: language)
+
 == #headerLabs.at("pubs-upcoming")
 #cv-refs(refs, multilingual, tag: "planned", me: [M. Foisy, L-O.], lang: language) 
 
