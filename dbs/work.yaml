@@ -1,3 +1,43 @@
+cc1:
+  title:
+    fr: Chargé de cours
+    jp: 非常勤講師
+    de: Lehrbeauftragter
+    en: Lecturer
+    pt: Professor convidado
+  subtitle:
+    fr: Introduction aux mégadonnées en sciences sociales
+    jp: 社会科学におけるビッグデータ入門
+    de: Einführung in Big Data in den Sozialwissenschaften
+    en: Introduction to Big Data in Social Sciences
+    pt: Introdução a Big Data em Ciências Sociais
+  location:
+    fr: Université de Montréal
+    jp: モントリオール大学
+    de: Université de Montréal
+    en: University of Montreal
+    pt: Universidade de Montreal
+  left: "2025"
+ra4:
+  title:
+    fr: Auxiliaire de recherche
+    jp: リサーチアシスタント
+    de: forschungsassistent
+    en: Research assistant
+    pt: Assistente de pesquisa
+  subtitle:
+    fr: Centre d'analyse des politiques publiques (CAPP)
+    jp: Centre d'analyse des politiques publiques (CAPP)
+    de: Centre d'analyse des politiques publiques (CAPP)
+    en: Centre for Public Policy Analysis (CAPP)
+    pt: Centro de Análise de Políticas Públicas (CAPP)
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    de: Université Laval
+    en: Laval University
+    pt: Universidade Laval
+  left: "2025"
 ta7:
   title:
     fr: Auxiliaire d'enseignement et aide à la conception du cours

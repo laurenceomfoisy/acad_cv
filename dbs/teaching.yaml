@@ -1,29 +1,15 @@
-"2024":
+"2025":
   course1:
     summer: F
     name:
-      fr: Git et GitHub
-      jp: GitとGitHub
-      de: Git und GitHub
-      en: Git and GitHub
-      pt: Git e GitHub
+      fr: Université de Montréal
+      jp: モントリオール大学
+      de: Université de Montréal
+      en: University of Montreal
+      pt: Universidade de Montreal
     study:
-      fr: Outils numériques de recherche
-      jp: デジタル研究ツール
-      de: Digitale Forschungswerkzeuge
-      en: Digital Research Tools
-      pt: Ferramentas digitais de pesquisa
-"2023":
-  course1:
-    summer: F
-    name:
-      fr: Les Graphes orientés acycliques (GOA)
-      de: Gerichtete azyklische Graphen (GAG)
-      en: Directed acyclic graphs (DAG)
-      pt: Gráficos orientados acíclicos (GOA)
-    study:
-      fr: Méthodes quantitatives
-      jp: 量的方法論
-      de: Quantitative Methodik
-      en: Quantitative Methodology
-      pt: Metodologia quantitativa
+      fr: Introduction aux mégadonnées en sciences sociales
+      jp: 社会科学におけるビッグデータの紹介
+      de: Einführung in Big Data in den Sozialwissenschaften
+      en: Introduction to Big Data in Social Sciences
+      pt: Introdução às grandes dados em ciências sociais

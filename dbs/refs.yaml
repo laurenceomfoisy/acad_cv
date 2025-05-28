@@ -1,3 +1,24 @@
+mfoisyetal25c:
+  type: "article"
+  date: 2024
+  title: "Prompting the Machine: Introducing an LLM a Extraction Method for Social Scientists"
+  tags: "peer"
+  author:
+    [
+      "M. Foisy, Laurence-Olivier",
+      "Proulx, Étienne",
+      "Cadieux, Hubert",
+      "Gilbert, Jérémy",
+      "Rivest, Jozef",
+      "Bouillon, Alexandre",
+      "Dufresne, Yannick",
+    ]
+  corresponding: true
+  parent:
+    title: "Social Science Computer Review"
+  page-range: "1–14"
+  serial-number:
+    doi: "10.1177/08944393251344865"
 mfoisyetal25b:
   type: "article"
   date: 2025

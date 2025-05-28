@@ -19,14 +19,14 @@ lang:
     committee: Research groups & committees 
     teaching: Teaching experience
     pteaching-thesis: Supervised theses
-    teaching-courses: Teaching (selected)
+    teaching-courses: Courses taught
     training: Additional training (selection)
     training-methods: Methods training
     training-didactics: Didactics
-    tab-course: Subject taught
+    tab-course: University
     tab-study: Course name
     tab-year: Term
-    tab-note: "Courses taught as part of a professor replacement"
+    tab-note: "Lecturer"
     table-summer: "Fall"
     table-winter: "Winter"
     others: Further skills
@@ -71,10 +71,10 @@ lang:
     training: Formation complémentaire
     training-methods: Formation en méthodes
     training-didactics: Didactique
-    tab-course: Matière enseignée
+    tab-course: Université
     tab-study: Nom du cours
     tab-year: Session
-    tab-note: "Cours enseignés dans le cadre d'un remplacement de professeur"    
+    tab-note: "Chargé de cours"    
     table-summer: "Automne"
     table-winter: "Hiver"
     others: Compétences supplémentaires
@@ -122,7 +122,7 @@ lang:
     tab-course: 教科
     tab-study: コース名
     tab-year: 学期
-    tab-note: "教授の代替として教えた全コース(きょうじゅのだいたいとしておしえたぜんコース)"
+    tab-note: "担当科目"
     table-summer: "秋学期"
     table-winter: "冬学期"
     others: その他の技能
@@ -169,7 +169,7 @@ lang:
     tab-course: Matéria ensinada
     tab-study: Nome do curso
     tab-year: Semestre
-    tab-note: "Cursos inteiros ministrados como parte de uma substituição de professor"
+    tab-note: "Curso completo lecionado como substituição de professor titular"
     table-summer: "Outono"
     table-winter: "Inverno"
     others: Outras competências
@@ -218,7 +218,7 @@ lang:
     tab-course: Unterrichtsfach
     tab-study: Kursname
     tab-year: Semester
-    tab-note: "Komplette Kurse, die im Rahmen einer Vertretung eines Professors unterrichtet wurden"
+    tab-note: "Dozent:in"
     table-summer: "Herbst"
     table-winter: "Winter"
     others: Weitere Kompetenzen

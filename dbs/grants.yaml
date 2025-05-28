@@ -1,3 +1,55 @@
+grant7:
+  title:
+    fr: Bourses d'études supérieures du Canada - Doctorat (CRSH)
+    jp: カナダ学術研究会議博士課程奨学金 (CRSH)
+    de: Kanadische Stipendien für Graduiertenstudien - Doktorat (CRSH)
+    en: Canada Graduate Scholarships - Doctoral (SSHRC)
+    pt: Bolsas de Estudos de Pós-Graduação do Canadá - Doutorado (CRSH)
+  subtitle:
+    fr: Conseil de recherches en sciences humaines du Canada
+    jp: カナダ人文学研究会議
+    de: Kanadischer Rat für Sozialwissenschaftliche Forschung
+    en: Social Sciences and Humanities Research Council of Canada
+    pt: Conselho de Pesquisa em Ciências Sociais e Humanas do Canadá
+  location:
+    fr: Canada
+    jp: カナダ
+    de: Kanada
+    en: Canada
+    pt: Canadá
+  left: "2025-2028"
+  description:
+    fr: CAD 120 000
+    jp: CAD 120,000
+    de: CAD 120,000
+    en: CAD 120,000
+    pt: CAD 120,000
+grant6:
+  title:
+    fr: Bourse de doctorat en recherche - FQRSC (Déclinée en faveur du CRSH)
+    jp: 研究博士課程奨学金 - FQRSC（SSHRC採用により辞退）
+    de: Forschungsdoktorandenstipendium - FQRSC (Zugunsten von SSHRC abgelehnt)
+    en: Research Doctoral Grant - FQRSC (Declined in favor of SSHRC)
+    pt: Bolsa de doutorado em pesquisa - FQRSC (Recusada em favor do SSHRC)
+  subtitle:
+    fr: Fonds de recherche du Québec - Société et culture
+    jp: ケベック州社会文化研究基金
+    de: Forschungsfonds Québec - Gesellschaft und Kultur
+    en: Quebec Research Fund - Society and Culture
+    pt: Fundo de Pesquisa do Quebec - Sociedade e Cultura
+  location:
+    fr: Québec
+    jp: ケベック
+    de: Québec
+    en: Quebec
+    pt: Quebec
+  left: "2025-2029"
+  description:
+    fr: CAD 100 000
+    jp: CAD 100,000
+    de: CAD 100,000
+    en: CAD 100,000
+    pt: CAD 100,000
 grant5:
   title:
     fr: Bourse d'admission au doctorat
@@ -19,11 +71,11 @@ grant5:
     pt: Université Laval (Québec)
   left: "2023-2025"
   description:
-    fr: CAD 30000
-    jp: CAD 30000
-    de: CAD 30000
-    en: CAD 30000
-    pt: CAD 30000
+    fr: CAD 30 000
+    jp: CAD 30,000
+    de: CAD 30,000
+    en: CAD 30,000
+    pt: CAD 30,000
 grant4:
   title:
     fr: Bourse de réussite
@@ -45,11 +97,11 @@ grant4:
     pt: Université Laval (Québec)
   left: "2023-2025"
   description:
-    fr: CAD 14000
-    jp: CAD 14000
-    de: CAD 14000
-    en: CAD 14000
-    pt: CAD 14000
+    fr: CAD 14 000
+    jp: CAD 14,000
+    de: CAD 14,000
+    en: CAD 14,000
+    pt: CAD 14,000
 grant3:
   title:
     fr: Makiguchi Foundation for Education International Students Scholarship
@@ -71,11 +123,11 @@ grant3:
     pt: Japão
   left: "2019-2021"
   description:
-    fr: JPY 2,680,000 (environ CAD 25100)
-    jp: JPY 2,680,000 (約 CAD 25100)
-    de: JPY 2,680,000 (ca. CAD 25100)
-    en: JPY 2,680,000 (approx. CAD 25100)
-    pt: JPY 2,680,000 (aprox. CAD 25100)
+    fr: JPY 2,680,000 (environ CAD 25 100)
+    jp: JPY 2,680,000 (約 CAD 25,100)
+    de: JPY 2,680,000 (ca. CAD 25,100)
+    en: JPY 2,680,000 (approx. CAD 25,100)
+    pt: JPY 2,680,000 (aprox. CAD 25,100)
 grant2:
   title:
     fr: Bourse de mobilité
@@ -97,11 +149,11 @@ grant2:
     pt: Quebec
   left: "2016-2017"
   description:
-    fr: CAD 8000
-    jp: CAD 8000
-    de: CAD 8000
-    en: CAD 8000
-    pt: CAD 8000
+    fr: CAD 8 000
+    jp: CAD 8,000
+    de: CAD 8,000
+    en: CAD 8,000
+    pt: CAD 8,000
 grant1:
   title:
     fr: Student Exchange Support Program Grant
@@ -123,8 +175,8 @@ grant1:
     pt: Japão
   left: "2016-2017"
   description:
-    fr: JPY 960,000 (environ CAD 8900)
-    jp: JPY 960,000 (約 CAD 8900)
-    de: JPY 960.000 (ca. CAD 8900)
-    en: JPY 960,000 (approx. CAD 8900)
-    pt: JPY 960,000 (aprox. CAD 8900)
+    fr: JPY 960,000 (environ CAD 8 900)
+    jp: JPY 960,000 (約 CAD 8,900)
+    de: JPY 960.000 (ca. CAD 8,900)
+    en: JPY 960,000 (approx. CAD 8,900)
+    pt: JPY 960,000 (aprox. CAD 8,900)
