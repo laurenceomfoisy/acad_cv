@@ -107,7 +107,7 @@ lang:
     pubs-peer: 査読付き論文
     pubs-edited: 編著書所収論文
     pubs-book: 著書
-    pub-conf: 学会論文
+    pubs-conf: 学会論文
     pubs-reports: 技術報告書・教材
     pubs-upcoming: 投稿予定論文
     confs: 学会発表・招待講演
@@ -144,6 +144,8 @@ lang:
     pubstate-forthcoming: 掲載予定
     pubstate-inpress: 印刷中
     pubstate-prepub: プレプリント
+    pubs-software: パッケージ、ライブラリ、ソフトウェア
+    date-format: "[year]年[month]月[day]日"
   pt:
     subtitle: Currículo
     education: Formação acadêmica
@@ -159,7 +161,7 @@ lang:
     pubs-upcoming: Publicações em preparação
     confs: Conferências e Palestras convidadas
     confs-conf: Conferências
-    exp-confs: "P: Präsentation, R: Verfassung des Papers"    
+    exp-confs: "P: apresentação, R: redação do artigo"    
     confs-talks: Palestras convidadas
     committee: Trabalho em comité e funções voluntárias (seleção)
     teaching: Ensino
@@ -171,14 +173,14 @@ lang:
     tab-course: Matéria ensinada
     tab-study: Nome do curso
     tab-year: Semestre
-    tab-note: "Curso completo lecionado como substituição de professor titular"
+    tab-note: "Docente"
     table-summer: "Outono"
     table-winter: "Inverno"
     others: Outras competências
-    skills-computer: Idiomas de programação
+    skills-computer: Linguagens de programação
     skills-programs: Programas
     skills-languages: Idiomas
-    skills-tab-skills: Skill
+    skills-tab-skills: Competência
     skills-tab-level: Nível
     skills-tab-comment: Comentário
     skills-leg1: básico
@@ -189,12 +191,11 @@ lang:
     pubstate-submitted: submetido
     pubstate-rnr: revisar e resubmeter
     pubstate-forthcoming: em publicação
-    pubstate-inpress: impresso
+    pubstate-inpress: no prelo
     pubstate-prepub: pré-publicação
     date-format: "[day]/[month]/[year]"
-    date-format: "[year]年[month]月[day]日"
   de:
-    subtitle: Short CV
+    subtitle: Akademischer Lebenslauf
     education: Hochschulbildung
     work: Akademische Berufserfahrung (Auswahl)
     grants: Fördermittel, Stipendien & Preise
@@ -208,7 +209,7 @@ lang:
     pubs-upcoming: geplante Publikationen
     confs: Konferenzen & Gastvorträge
     confs-conf: Konferenzen
-    exp-confs: "P: Apresentação, R: Redação do artigo"
+    exp-confs: "P: Präsentation, R: Verfassung des Papers"
     confs-talks: Gastvorträge
     committee: Akademische Selbstverwaltung & ehrenamtliche Funktionen (Auswahl)
     teaching: Lehrerfahrung
@@ -224,10 +225,10 @@ lang:
     table-summer: "Herbst"
     table-winter: "Winter"
     others: Weitere Kompetenzen
-    skills-computer: Computer-sprachen
+    skills-computer: Programmiersprachen
     skills-programs: Software
     skills-languages: Sprachen
-    skills-tab-skills: Skill
+    skills-tab-skills: Kompetenz
     skills-tab-level: Niveau
     skills-tab-comment: Kommentar
     skills-leg1: Grundkenntnisse
@@ -240,5 +241,6 @@ lang:
     pubstate-forthcoming: im Erscheinen
     pubstate-inpress: im Druck
     pubstate-prepub: Preprint
+    pubs-software: Pakete, Bibliotheken und Software
     date-format: "[day]. [month repr:long] [year]"
 
