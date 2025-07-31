@@ -1,4 +1,19 @@
-# Example R package entry - replace with your actual package details
+mfoisyetal25d:
+  type: "article"
+  date: 2025
+  title: "From Checkbox to Textbox: Capturing Nuanced Public Opinion with Large Language Models"
+  tags: "conf"
+  author:
+    [
+      "M. Foisy, Laurence-Olivier",
+      "Cadieux, Hubert",
+      "Proulx, Étienne",
+      "Pelletier, Camille",
+      "Temporão, Mickael",
+      "Dufresne, Yannick",
+    ]
+  parent:
+    title: "Maple Meth Annual Conference"
 mfoisypackage:
   type: "software"
   date: 2025
@@ -265,24 +280,6 @@ pelletieretal25:
   corresponding: false
   parent:
     title: "Politics and Religion"
-mfoisyetal24b:
-  type: "article"
-  pubstate: rnr
-  title: "Prompting the Machine: Introducing a LLM Data Extraction Method for Social Scientists"
-  tags: "planned"
-  author:
-    [
-      "M. Foisy, Laurence-Olivier",
-      "Proulx, Étienne",
-      "Cadieux, Hubert",
-      "Rivest, Jozef",
-      "Gilbert, Jérémy",
-      "Bouillon, Alexandre",
-      "Dufresne, Yannick",
-    ]
-  corresponding: true
-  parent:
-    title: "Social Science Computer Review"
 gilbertetal24a:
   type: "article"
   pubstate: submitted

@@ -1,5 +1,5 @@
 // Import the package
-#import "@preview/modern-acad-cv:0.1.0": *
+#import "@preview/modern-acad-cv:0.1.4": *
 
 // Import custom functions (with our fixed cv-refs function)
 #import "cv-functions.typ": cv-refs
@@ -28,7 +28,7 @@
   metadata, 
   multilingual,
   lang: language,   
-  font: "Fira Sans",
+  font: "New Computer Modern",
   show-date: true
 )    
 
