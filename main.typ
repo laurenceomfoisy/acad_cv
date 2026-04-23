@@ -94,7 +94,3 @@
 = #headerLabs.at("training")
 
 #cv-auto-cats(training, multilingual, headerLabs, lang: language)
-
-= #headerLabs.at("others")
-
-#cv-auto-skills(skills, multilingual, metadata, lang: language)
