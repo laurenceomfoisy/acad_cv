@@ -1,3 +1,19 @@
+"2026":
+  course1:
+    summer: F
+    name:
+      fr: Université de Montréal
+      jp: モントリオール大学
+      de: Université de Montréal
+      en: University of Montreal
+      pt: Universidade de Montreal
+    study:
+      fr: Introduction aux mégadonnées en sciences sociales
+      jp: 社会科学におけるビッグデータ入門
+      de: Einführung in Big Data in den Sozialwissenschaften
+      en: Introduction to Big Data in Social Sciences
+      pt: Introdução a Big Data em Ciências Sociais
+
 "2025":
   course1:
     summer: F

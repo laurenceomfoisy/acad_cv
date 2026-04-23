@@ -1,3 +1,43 @@
+cc3:
+  title:
+    fr: Chargé de cours
+    jp: 非常勤講師
+    de: Lehrbeauftragter
+    en: Lecturer
+    pt: Professor convidado
+  subtitle:
+    fr: Introduction aux mégadonnées en sciences sociales
+    jp: 社会科学におけるビッグデータ入門
+    de: Einführung in Big Data in den Sozialwissenschaften
+    en: Introduction to Big Data in Social Sciences
+    pt: Introdução a Big Data em Ciências Sociais
+  location:
+    fr: Université de Montréal
+    jp: モントリオール大学
+    de: Université de Montréal
+    en: University of Montreal
+    pt: Universidade de Montreal
+  left: "2026"
+cc2:
+  title:
+    fr: Chargé de cours
+    jp: 非常勤講師
+    de: Lehrbeauftragter
+    en: Lecturer
+    pt: Professor convidado
+  subtitle:
+    fr: POL-2000 Méthodologie quantitative
+    jp: POL-2000 量的方法論
+    de: POL-2000 Quantitative Methodik
+    en: POL-2000 Quantitative Methodology
+    pt: POL-2000 Metodologia quantitativa
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    de: Université Laval
+    en: Laval University
+    pt: Universidade Laval
+  left: "2026"
 cc1:
   title:
     fr: Chargé de cours
