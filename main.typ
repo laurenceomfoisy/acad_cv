@@ -2,7 +2,7 @@
 #import "@preview/modern-acad-cv:0.1.4": *
 
 // Import custom functions (with our fixed cv-refs function)
-#import "cv-functions.typ": cv-refs
+#import "cv-functions.typ": cv-refs, cv-confs-list
 
 // loading meta data and databases (needs to be ad this directory)
 #let metadata = yaml("metadata.yaml") 
@@ -76,7 +76,7 @@
   headerLabs.at("exp-confs")
 )
 
-#cv-auto-list(conferences, multilingual, lang: language)
+#cv-confs-list(conferences, multilingual, lang: language)
 
 == #headerLabs.at("confs-talks")
 #cv-auto(talks, multilingual, lang: language)

@@ -1,3 +1,5 @@
+#import "@preview/modern-acad-cv:0.1.4": cv-cols
+
 // Custom make-entry-apa function
 #let make-entry-apa(
   fields,
@@ -366,5 +368,32 @@
 
     // Call our custom make-entry-apa function
     make-entry-apa(fields, multilingual, me: me, lang: lang)
+  }
+}
+
+// Render conferences one per row instead of concatenating by year.
+#let cv-confs-list(
+  what,
+  multilingual,
+  lang: "de"
+) = {
+  for year in what.keys() {
+    let subset = what.at(year)
+
+    for event in subset.keys() {
+      let fields = subset.at(event)
+      let name = if type(fields.name) == dictionary {
+        fields.name.at(lang)
+      } else {
+        fields.name
+      }
+      let right = if "action" in fields {
+        [#name#super[#fields.action]]
+      } else {
+        [#name]
+      }
+
+      cv-cols(year, right)
+    }
   }
 }
