@@ -1,3 +1,14 @@
+mfoisyetal26:
+  type: "article"
+  date: 2026
+  title: "Can LLMs predict individual vote choice? Yes, but a multinomial regression does it better"
+  tags: "conf"
+  author:
+    [
+      "M. Foisy, Laurence-Olivier",
+    ]
+  parent:
+    title: "MapleMeth Annual Conference"
 mfoisyetal25d:
   type: "article"
   date: 2025
