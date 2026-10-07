@@ -1,0 +1,100 @@
+profdatagotchi:
+  title:
+    fr: Cocréateur et chargé de projet
+    jp: 共同制作者・プロジェクトリーダー
+    de: Mitgestalter und Projektleiter
+    en: Co-creator and Project Lead
+    pt: Cocriador e líder de projeto
+  subtitle:
+    fr: Prof. Datagotchi (prof-datagotchi.com), élections québécoises 2026
+    jp: Prof. Datagotchi (prof-datagotchi.com)、2026年ケベック州選挙
+    de: Prof. Datagotchi (prof-datagotchi.com), Wahlen in Québec 2026
+    en: Prof. Datagotchi (prof-datagotchi.com), 2026 Quebec election
+    pt: Prof. Datagotchi (prof-datagotchi.com), eleições de Quebec 2026
+  location:
+    fr: Centre d'analyse des politiques publiques (CAPP), Université Laval
+    jp: Centre d'analyse des politiques publiques (CAPP), ラバル大学
+    de: Centre d'analyse des politiques publiques (CAPP), Université Laval
+    en: Centre for Public Policy Analysis (CAPP), Laval University
+    pt: Centro de Análise de Políticas Públicas (CAPP), Universidade Laval
+  left: "2026"
+vitrine:
+  title:
+    fr: Responsable du déploiement
+    jp: デプロイ責任者
+    de: Verantwortlicher für das Deployment
+    en: Deployment Lead
+    pt: Responsável pela implantação
+  subtitle:
+    fr: La Vitrine démocratique (vitrinedemocratique.com)
+    jp: La Vitrine démocratique (vitrinedemocratique.com)
+    de: La Vitrine démocratique (vitrinedemocratique.com)
+    en: La Vitrine démocratique (vitrinedemocratique.com)
+    pt: La Vitrine démocratique (vitrinedemocratique.com)
+  location:
+    fr: Centre d'analyse des politiques publiques (CAPP), Université Laval
+    jp: Centre d'analyse des politiques publiques (CAPP), ラバル大学
+    de: Centre d'analyse des politiques publiques (CAPP), Université Laval
+    en: Centre for Public Policy Analysis (CAPP), Laval University
+    pt: Centro de Análise de Políticas Públicas (CAPP), Universidade Laval
+  left: "2026"
+defiqc:
+  title:
+    fr: Chargé de projet
+    jp: プロジェクトリーダー
+    de: Projektleiter
+    en: Project Lead
+    pt: Líder de projeto
+  subtitle:
+    fr: Défi Datagotchi Québec (quebec.datagotchi.com), élections québécoises 2026
+    jp: Défi Datagotchi Québec (quebec.datagotchi.com)、2026年ケベック州選挙
+    de: Défi Datagotchi Québec (quebec.datagotchi.com), Wahlen in Québec 2026
+    en: Défi Datagotchi Québec (quebec.datagotchi.com), 2026 Quebec election
+    pt: Défi Datagotchi Québec (quebec.datagotchi.com), eleições de Quebec 2026
+  location:
+    fr: Centre d'analyse des politiques publiques (CAPP), Université Laval
+    jp: Centre d'analyse des politiques publiques (CAPP), ラバル大学
+    de: Centre d'analyse des politiques publiques (CAPP), Université Laval
+    en: Centre for Public Policy Analysis (CAPP), Laval University
+    pt: Centro de Análise de Políticas Públicas (CAPP), Universidade Laval
+  left: "2026"
+deficanada:
+  title:
+    fr: Analyste en chef
+    jp: チーフアナリスト
+    de: Chefanalyst
+    en: Chief Analyst
+    pt: Analista-chefe
+  subtitle:
+    fr: Défi Datagotchi Canada, élections fédérales 2025
+    jp: Défi Datagotchi Canada、2025年カナダ連邦選挙
+    de: Défi Datagotchi Canada, kanadische Bundeswahl 2025
+    en: Défi Datagotchi Canada, 2025 federal election
+    pt: Défi Datagotchi Canadá, eleições federais de 2025
+  location:
+    fr: Centre d'analyse des politiques publiques (CAPP), Université Laval
+    jp: Centre d'analyse des politiques publiques (CAPP), ラバル大学
+    de: Centre d'analyse des politiques publiques (CAPP), Université Laval
+    en: Centre for Public Policy Analysis (CAPP), Laval University
+    pt: Centro de Análise de Políticas Públicas (CAPP), Universidade Laval
+  left: "2025"
+defiusa:
+  title:
+    fr: Analyste en chef
+    jp: チーフアナリスト
+    de: Chefanalyst
+    en: Chief Analyst
+    pt: Analista-chefe
+  subtitle:
+    fr: Défi Datagotchi États-Unis, élection présidentielle 2024
+    jp: Défi Datagotchi USA、2024年アメリカ大統領選挙
+    de: Défi Datagotchi USA, US-Präsidentschaftswahl 2024
+    en: Défi Datagotchi USA, 2024 presidential election
+    pt: Défi Datagotchi EUA, eleição presidencial de 2024
+  location:
+    fr: Centre d'analyse des politiques publiques (CAPP), Université Laval
+    jp: Centre d'analyse des politiques publiques (CAPP), ラバル大学
+    de: Centre d'analyse des politiques publiques (CAPP), Université Laval
+    en: Centre for Public Policy Analysis (CAPP), Laval University
+    pt: Centro de Análise de Políticas Públicas (CAPP), Universidade Laval
+  left: "2024"

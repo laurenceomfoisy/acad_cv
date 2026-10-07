@@ -8,6 +8,7 @@
 #let metadata = yaml("metadata.yaml") 
 #let multilingual = yaml("dbs/i18n.yaml")
 #let work = yaml("dbs/work.yaml")
+#let projects = yaml("dbs/projects.yaml")
 #let education = yaml("dbs/education.yaml")
 #let grants = yaml("dbs/grants.yaml")
 #let refs = yaml("dbs/refs.yaml")
@@ -35,6 +36,10 @@
 = #headerLabs.at("work")
 
 #cv-auto-stc(work, multilingual, lang: language)
+
+= #headerLabs.at("projects")
+
+#cv-auto-stc(projects, multilingual, lang: language)
 
 = #headerLabs.at("education")
 

@@ -3,6 +3,7 @@ lang:
     subtitle: Academic CV
     education: Higher education
     work: Academic work experience 
+    projects: Projects
     grants: Scholarships
     pubs: Publications
     pubs-note: ""
@@ -52,6 +53,7 @@ lang:
     subtitle: Curriculum Vitae
     education: Formation académique
     work: Expérience professionnelle académique 
+    projects: Projets
     grants: Bourses
     pubs: Publications
     pubs-note: ""
@@ -101,6 +103,7 @@ lang:
     subtitle: 履歴書
     education: 学歴
     work: 職歴（抜粋）
+    projects: プロジェクト
     grants: 奨学金・受賞歴
     pubs: 研究業績
     pubs-note: "C: 責任著者"
@@ -150,6 +153,7 @@ lang:
     subtitle: Currículo
     education: Formação acadêmica
     work: Atuação profissional (seleção)
+    projects: Projetos
     grants: Bolsas de estudo e prémios
     pubs: Publicações
     pubs-note: "C: Autor correspondente"
@@ -198,6 +202,7 @@ lang:
     subtitle: Akademischer Lebenslauf
     education: Hochschulbildung
     work: Akademische Berufserfahrung (Auswahl)
+    projects: Projekte
     grants: Fördermittel, Stipendien & Preise
     pubs: Publikationen
     pubs-note: "C: Korrespondierender Autor"
