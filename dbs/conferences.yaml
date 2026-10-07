@@ -2,12 +2,15 @@
   conference1:
     name: "MapleMeth Annual Conference"
     action: PR
+  conference2:
+    name: Conférence annuelle de l'Association canadienne de science politique
+    action: PR
 "2025":
   conference1:
     name: "Midwest Political Science Association: Annual Meeting Conference"
     action: PR
   conference2:
-    name: "Maple Meth Annual Conference, Simon Fraser University, Vancouver, British Columbia"
+    name: "MapleMeth Annual Conference, Simon Fraser University, Vancouver, British Columbia"
     action: PR
 "2024":
   conference2:

@@ -1,3 +1,38 @@
+pelletieretal26:
+  type: "article"
+  date: 2026
+  title: "Religiosity in Times of Crisis: Uncovering Canadians’ Responses to COVID-19 through Terror Management Theory"
+  tags: "peer"
+  author:
+    [
+      "Pelletier, Camille",
+      "Proulx, Étienne",
+      "M. Foisy, Laurence-Olivier",
+      "Drouin, Jérémie",
+      "Cadieux, Hubert",
+      "Dufresne, Yannick",
+    ]
+  parent:
+    title: "Mental Health, Religion & Culture"
+    volume: 29
+    issue: 3
+  page-range: "241–262"
+  serial-number:
+    doi: "10.1080/13674676.2025.2576779"
+mfoisyetal26b:
+  type: "article"
+  date: 2026
+  title: "Generative AI in Political Communication: An Empirical Portrait of Canada and Quebec, 2022–2026"
+  tags: "conf"
+  author:
+    [
+      "M. Foisy, Laurence-Olivier",
+      "Cloutier, Adrien",
+      "Pelletier, Camille",
+      "Proulx, Étienne",
+    ]
+  parent:
+    title: "Conférence annuelle de l'Association canadienne de science politique"
 mfoisyetal26:
   type: "article"
   date: 2026
@@ -25,7 +60,7 @@ mfoisyetal25d:
       "Dufresne, Yannick",
     ]
   parent:
-    title: "Maple Meth Annual Conference"
+    title: "MapleMeth Annual Conference"
 mfoisypackage:
   type: "software"
   date: 2025
@@ -38,8 +73,8 @@ mfoisypackage:
     url: "https://cran.r-project.org/web/packages/ces/"
 mfoisyetal25c:
   type: "article"
-  date: 2024
-  title: "Prompting the Machine: Introducing an LLM a Extraction Method for Social Scientists"
+  date: 2025
+  title: "Prompting the Machine: Introducing an LLM Data Extraction Method for Social Scientists"
   tags: "peer"
   author:
     [
@@ -54,7 +89,9 @@ mfoisyetal25c:
   corresponding: true
   parent:
     title: "Social Science Computer Review"
-  page-range: "1–14"
+    volume: 44
+    issue: 3
+  page-range: "428–441"
   serial-number:
     doi: "10.1177/08944393251344865"
 mfoisyetal25b:
@@ -150,7 +187,9 @@ mfoisyetal24p:
   corresponding: true
   parent:
     title: "Journal of Information Technology & Politics"
-  page-range: "1–13"
+    volume: 23
+    issue: 2
+  page-range: "189–201"
   serial-number:
     doi: "10.1080/19331681.2024.2444587"
 mfoisyetal24:
@@ -275,23 +314,6 @@ mfoisy24:
     author: ["Cloutier, Adrien", "Dufresne, Yannick", "Bibeau-Gagnon, Alexis"]
     publisher: "Les Presses de l'Université Laval"
     location: "Québec"
-pelletieretal25:
-  type: "article"
-  pubstate: submitted
-  title: "Religiosity in Times of Crisis: Uncovering Canadians’ Responses to COVID-19 through Terror Management Theory"
-  tags: "planned"
-  author:
-    [
-      "Pelletier, Camille",
-      "Proulx, Étienne",
-      "M. Foisy, Laurence-Olivier",
-      "Drouin, Jérémie",
-      "Cadieux, Hubert",
-      "Dufresne, Yannick",
-    ]
-  corresponding: false
-  parent:
-    title: "Politics and Religion"
 gilbertetal24a:
   type: "article"
   pubstate: submitted

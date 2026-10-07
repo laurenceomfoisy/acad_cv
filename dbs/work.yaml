@@ -1,23 +1,3 @@
-cc3:
-  title:
-    fr: Chargé de cours
-    jp: 非常勤講師
-    de: Lehrbeauftragter
-    en: Lecturer
-    pt: Professor convidado
-  subtitle:
-    fr: FAS-1001 Introduction aux mégadonnées en sciences sociales
-    jp: FAS-1001 社会科学におけるビッグデータ入門
-    de: FAS-1001 Einführung in Big Data in den Sozialwissenschaften
-    en: FAS-1001 Introduction to Big Data in Social Sciences
-    pt: FAS-1001 Introdução a Big Data em Ciências Sociais
-  location:
-    fr: Université de Montréal
-    jp: モントリオール大学
-    de: Université de Montréal
-    en: University of Montreal
-    pt: Universidade de Montreal
-  left: "2026"
 cc2:
   title:
     fr: Chargé de cours
@@ -37,6 +17,46 @@ cc2:
     de: Université Laval
     en: Laval University
     pt: Universidade Laval
+  left: "2026"
+eiom1:
+  title:
+    fr: Chargé de cours et concepteur du cours
+    jp: 非常勤講師・コース設計者
+    de: Lehrbeauftragter und Kursgestalter
+    en: Lecturer and course designer
+    pt: Professor convidado e designer do curso
+  subtitle:
+    fr: "ETI-7034 L'intelligence artificielle et la recherche, École interdisciplinaire outils et méthodes"
+    jp: "ETI-7034 L'intelligence artificielle et la recherche, École interdisciplinaire outils et méthodes"
+    de: "ETI-7034 L'intelligence artificielle et la recherche, École interdisciplinaire outils et méthodes"
+    en: "ETI-7034 L'intelligence artificielle et la recherche, École interdisciplinaire outils et méthodes"
+    pt: "ETI-7034 L'intelligence artificielle et la recherche, École interdisciplinaire outils et méthodes"
+  location:
+    fr: Université Laval
+    jp: ラバル大学
+    de: Université Laval
+    en: Laval University
+    pt: Universidade Laval
+  left: "2026"
+cc3:
+  title:
+    fr: Chargé de cours
+    jp: 非常勤講師
+    de: Lehrbeauftragter
+    en: Lecturer
+    pt: Professor convidado
+  subtitle:
+    fr: FAS-1001 Introduction aux mégadonnées en sciences sociales
+    jp: FAS-1001 社会科学におけるビッグデータ入門
+    de: FAS-1001 Einführung in Big Data in den Sozialwissenschaften
+    en: FAS-1001 Introduction to Big Data in Social Sciences
+    pt: FAS-1001 Introdução a Big Data em Ciências Sociais
+  location:
+    fr: Université de Montréal
+    jp: モントリオール大学
+    de: Université de Montréal
+    en: University of Montreal
+    pt: Universidade de Montreal
   left: "2026"
 cc1:
   title:

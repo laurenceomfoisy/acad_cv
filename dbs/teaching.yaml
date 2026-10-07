@@ -1,4 +1,18 @@
 "2026":
+  course0:
+    summer: T
+    name:
+      fr: Université Laval
+      jp: ラバル大学
+      de: Université Laval
+      en: Laval University
+      pt: Universidade Laval
+    study:
+      fr: Méthodologie quantitative
+      jp: 量的方法論
+      de: Quantitative Methodik
+      en: Quantitative Methodology
+      pt: Metodologia quantitativa
   course1:
     summer: F
     name:

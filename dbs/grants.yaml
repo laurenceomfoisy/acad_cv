@@ -26,11 +26,11 @@ grant7:
     pt: CAD 120,000
 grant6:
   title:
-    fr: Bourse de doctorat en recherche - FQRSC (Déclinée en faveur du CRSH)
-    jp: 研究博士課程奨学金 - FQRSC（SSHRC採用により辞退）
-    de: Forschungsdoktorandenstipendium - FQRSC (Zugunsten von SSHRC abgelehnt)
-    en: Research Doctoral Grant - FQRSC (Declined in favor of SSHRC)
-    pt: Bolsa de doutorado em pesquisa - FQRSC (Recusada em favor do SSHRC)
+    fr: Bourse de doctorat en recherche - FRQSC (Déclinée en faveur du CRSH)
+    jp: 研究博士課程奨学金 - FRQSC（SSHRC採用により辞退）
+    de: Forschungsdoktorandenstipendium - FRQSC (Zugunsten von SSHRC abgelehnt)
+    en: Research Doctoral Grant - FRQSC (Declined in favor of SSHRC)
+    pt: Bolsa de doutorado em pesquisa - FRQSC (Recusada em favor do SSHRC)
   subtitle:
     fr: Fonds de recherche du Québec - Société et culture
     jp: ケベック州社会文化研究基金
